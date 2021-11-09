@@ -1,0 +1,125 @@
+@import "../stylesheets/globals.scss";
+
+.container {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 50% 50%;
+  grid-template-areas:
+    "who-we-are who-we-are"
+    "expertise expertise"
+    "partners partners";
+}
+
+.whoWeAre {
+  grid-area: who-we-are;
+  padding: 25px;
+  background: url("/images/background_images/proteins.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-attachment: fixed;
+  color: white;
+}
+
+.whoWeAreText {
+  margin: 25px;
+  padding: 20px;
+  background: $primary-color;
+  width: 45%;
+  @media (max-width: 1000px) {
+    margin: 25px auto;
+    width: 90%;
+  }
+}
+
+.expertise {
+  grid-area: expertise;
+  color: white;
+  padding: 25px;
+  background: url("/images/background_images/nicu.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-attachment: fixed;
+  background-attachment: fixed;
+}
+
+.expertiseText {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  margin-left: auto;
+  padding: 20px;
+  background: $primary-color;
+  width: 45%;
+  @media (max-width: 1000px) {
+    margin-right: auto;
+    width: 90%;
+  }
+}
+
+.partners {
+  grid-area: expertise;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.partners img {
+  margin: 20px;
+  height: 50px;
+}
+
+.partnersWrapper {
+  display: block;
+}
+.emptyBlock {
+  display: block;
+}
+//const PartnersWrapper = styled.div`
+//.par
+//  width: 100%;
+//  display: flex;
+//  justify-content: space-around;
+//  flex-wrap: wrap;
+//`;
+//
+//const Block = styled.div`
+//  grid-area: ${props => props.gridArea};
+//  //text-align: justify;
+//  //text-justify: inter-word;
+//  color: ${props => (props.dark ? 'white' : 'var(--primary-color)')};
+//  background-color: ${props => (props.dark ? 'var(--primary-color)' : 'white')};
+//  //padding: 25px;
+//  //border: 3px solid var(--primary-color);
+//  margin: 0px;
+//  height: fit-content;
+//`;
+//
+//const Padded = styled.div`
+//  padding: 25px;
+//`;
+//
+//const EmptyBlock = styled.div`
+//  grid-area: empty-block;
+//  background-color: #f7f2eb;
+//  height: 100%;
+//w
+//`;
+//
+//const NewsColumn = styled.div`
+//  flex: 1;
+//  padding: 20px;
+//  width: 700px;
+//  @media only screen and (max-width: 1000px) {
+//     {
+//      width: 100%;
+//    }
+//  }
+//`;
+//
+//const CollaboratorLogo = styled.img`
+//  margin: 20px;
+//  height: 50px;
+//`;
+//
+//e

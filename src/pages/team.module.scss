@@ -1,0 +1,10 @@
+.memberGroup {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  @media (max-width: 700px) {
+    flex-direction: column;
+  }
+}

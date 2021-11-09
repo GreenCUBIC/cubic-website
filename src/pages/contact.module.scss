@@ -1,0 +1,51 @@
+@import "../../public/stylesheets/globals.scss";
+
+.verticalBlank {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: url("/images/background_images/canal_building.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.blueBlock {
+  background-color: $primary-color;
+  padding: 20px;
+  display: flex;
+  margin: 20px;
+  width: 1000px;
+  @media (max-width: 700px) {
+    flex-direction: column;
+    width: 85%;
+  }
+}
+
+.text {
+  margin: 15px;
+  color: white;
+}
+
+.positioning {
+  display: flex;
+  width: 100%;
+}
+
+.left {
+  justify-content: left;
+}
+
+.flexEnd {
+  justify-content: flex-end;
+}
+
+.backgroundImage {
+  height: 250px;
+  width: 100%;
+}
+
+.googleFrame {
+  width: 400px;
+  height: 450px;
+}

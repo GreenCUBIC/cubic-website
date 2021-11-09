@@ -1,0 +1,250 @@
+################ JIM #############################
+- name: James R. Green
+  memberid: jrgreen
+  title: Principal Investigator
+  joined: Founder (2006)
+  interests: Machine learning, bioinformatics, class imbalance, biomedical informatics
+  email: jrgreen@sce.carleton.ca
+  website: http://jamesgreen.ca
+  scholarurl: "https://scholar.google.ca/citations?user=6Ist2oUAAAAJ&hl=en"
+  orcidurl: "https://orcid.org/0000-0002-7931-8921"
+  img: jrgreen.jpeg
+  degree: PI
+  thesis: "MISO dynamic nonlinear protein secondary structure prediction (Queen's, 2005)"
+  background: Systems Engineering, Computer Engineering
+  quote: N/A
+  biography: |
+    Dr. Green is a full professor in the Department of Systems and
+    Computer Engineering at Carleton University. His research focuses
+    on the application of machine learning to challenges in biomedical
+    informatics, particularly in the presence of class imbalance.
+    Current research projects include the prediction of protein
+    structure, function, and interaction; the use of supervised and
+    semi-supervised machine learning for the identification of
+    microRNA in unique species; unobtrusive and non-contact neonatal
+    patient monitoring; developing ML for audiology; applying computer
+    vision to autonomous vehicle imagery; and the acceleration of
+    scientific computing using parallel computing.
+
+################ PhD STUDENTS #####################
+- name: Francois Charih
+  memberid: fcharih
+  joined: May 2017
+  title: PhD Student
+  interests: Computational drug design, cancer, neurodegeneration
+  email: francoischarih@sce.carleton.ca
+  website: http://charih.ca
+  scholarurl: "https://scholar.google.ca/citations?user=6Ist2oUAAAAJ&hl=en"
+  orcidurl: "https://orcid.org/0000-0002-7931-8921"
+  img: charih.png
+  degree: PhD
+  thesis: Synthetic biology targeting lysine methylation
+  background: Biochemistry, Chemical Engineering
+  quote: Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world. (Louis Pasteur)
+  biography: |
+    I am a computational biologist interested mainly in protein biochemistry. The main focus of my PhD thesis is to study
+    how computational methods and laboratory experiments can complement each other to design peptide inhibitors. I am particularly interested
+    in developing peptide inhibitors against lysine methyltransferases and demethylases, as lysine methylation is known to contribute to
+    chemoresistance and proliferation of cancer cells. In my spare times, I enjoy songwriting and reading.
+
+- name: Kevin Dick
+  memberid: kdick
+  joined: Fall 2015
+  title: PhD Candidate
+  interests: Machine Learning, Computational Biology, High-Performancee Computing, AV-based Informatics, Scientometrics
+  email: kevin.dick@carleton.ca
+  website: http://kevindick.ai
+  scholarurl: "https://scholar.google.ca/citations?user=2MzrJvkAAAAJ&hl=en"
+  orcidurl: "http://orcid.org/0000-0003-3931-523X"
+  img: dick.jpg
+  degree: PhD
+  thesis: "Reciprocal Perspective: A Cascaded Semi-Supervised Machine Learning Layer for Improved Classification and Regression"
+  background: Biology, Computer Science
+  quote: The best way to have a good idea is to have a lot of ideas. (Linus Pauling)
+  biography: |
+    I am interested in leveraging computational methods and high-performance computing infrastructure to provide insight into complex 
+    problems including the elucidation of protein-protein interactions and binding interfaces, analysis of autonomous vehicle-sensed 
+    data, scientometrics, and the promotion of access to information. While my thesis is focused on the development of a novel
+    semi-supervised machine learning method, as a polymath and solutionist, I am involved in a diverse array of research projects.
+    I am passionate about scientific communication and am currently an executive editor of the Health Science Inquiry.
+
+- name: Yasmina Souley Dosso
+  memberid: ysouleydosso
+  joined: September 2016
+  title: PhD candidate
+  interests: Computer Vision, Deep Learning, Patient Monitoring, Image Processing
+  email: yasmina.souleydosso@carleton.ca
+  website: https://www.linkedin.com/in/yasmina-souley-dosso/
+  scholarurl: https://scholar.google.ca/citations?user=7UBIdDYAAAAJ&hl=en
+  orcidurl: https://orcid.org/0000-0002-2411-4905
+  img: dosso.jpeg
+  degree: PhD
+  thesis: Machine Vision and Deep Learning for Patient Monitoring in the Neonatal Intensive Care Unit
+  background: Mathematics, Biology, Biomedical Engineering
+  quote: I heard a voice that told me I'm essential. How all my fears are limiting my potential. Said it's time to step into the light and use every bit of power I have inside. (India Arie)
+  biography: |
+    I am a person who is always eager to learn from different fields. I received the B. Sc. degree in Biology from Concordia University, Montreal, QC, Canada in 2014. I later completed the B. Math degree in Statistics from Carleton University, Ottawa, ON, Canada in 2016. I am currently pursuing a Ph.D. in Biomedical Engineering from the same institution after fast-tracking from the M.A.Sc in the same field. My thesis consists of creating a non-contact, non-invasive and unobtrusive patient monitoring system in the neonatal intensive care unit (NICU) using machine vision and deep learning techniques to estimate vital signs, detect patient movements and clinical interventions, and analyze the newborn's NICU environment to assist clinical staff in patient care.
+
+- name: Roger Selzler
+  memberid: rselzler
+  joined: Sep 2016
+  title: PhD candidate
+  interests: applied machine learning, product design, IoT, electronics.
+  email: roger.selzler@carleton.ca
+  website: ""
+  scholarurl: ""
+  orcidurl: "https://orcid.org/0000-0002-5683-099X"
+  img: selzler.jpg
+  degree: PhD
+  thesis: Deep Learning for Stress Estimation from Gait Data during VR Therapy
+  background: Electrical Engineering
+  quote: Learning is the only thing the mind never exhausts, never fears, and never regrets. (Leonardo da Vinci)
+  biography: |
+    I am an electrical engineer interested in machine learning applied to sensory data. The
+    main goal of my research is to develop machine learning models using sensory data related to
+    biological signals such as heart rate and gait to predict the levels of stress in which a
+    patient undergoes during virtual reality therapy sessions. My hobbies are mostly related 
+    to outdoor activities, such as hiking, running, biking, kayaking, and skydiving.
+
+- name: Mohsen Mozafari
+  memberid: mmozafari
+  joined: Sep 2020
+  title: PhD candidate
+  interests: TBD
+  email: mohsen.mozafari@carleton.ca
+  website: ""
+  scholarurl: ""
+  orcidurl: ""
+  img: ""
+  degree: PhD
+  thesis: TBD
+  background: N/A
+  quote: N/A
+  biography: |
+    N/A
+
+
+################ MASTERS STUDENTS #####################
+- name: Fadwa Darwaish
+  alumni: true
+  memberid: fdarwaish
+  joined: June 2018
+  title: Master's Student
+  img: darwaish.jpeg
+  interests: Biomedical engineering
+  email: fadwadarwaish@cmail.carleton.ca
+  website: https://ca.linkedin.com/in/fadwa-darwaish-2a267bb4
+  scholarurl: ""
+  orcidurl: ""
+  degree: MASc
+  thesis: Investigating vibration levels experienced by neonatal patients while in transport
+  background: Biomedical and Electrical Engineering
+  quote: "God does not look at your forms and possessions but he looks at your hearts and your deeds. (Mohammed)"
+  biography: |
+    I am a master student in Electrical and Computer Engineering. I graduated with a degree in Biomedical and Electrical
+    Engineering in June 2018. I am currently an engineering intern in the EIT (Engineer In Training) program, in pursuit
+    of my P.Eng. designation. My thesis work is focused on investigating vibration levels experienced by neonatal patients
+    while in transport. The aim of this research is to quantify the vibration levels babies encounter through their
+    transport and eliminate them. I am interested in biomedical engineering for the purpose of changing lives and improving
+    people’s health.
+
+- name: Aishwarya Purohit
+  alumni: true
+  memberid: apurohit
+  title: MASc candidate
+  email: francoischarih@sce.carleton.ca
+  img: purohit.jpeg
+  degree: MASc
+  thesis: Predicting the Site of Protein Interaction
+  background: Biotechnology
+  quote: It's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. (Elon Musk)
+
+- name: Samreen Aziz
+  memberid: saziz
+  title: MASc candidate
+  email: francoischarih@sce.carleton.ca
+  img: aziz.jpeg
+  degree: MASc
+  thesis: Detection of Neonatal Patient Movements using Pressure-senstive Mats
+  background: Neuroscience
+  quote: TBD
+
+
+
+- name: Eric Arezza
+  joined: May 2020
+  memberid: earezza
+  title: Masters Student
+  interests: Machine Learning, Bioinformatics, Microbiomes
+  email: ricarezza@cmail.carleton.ca
+  img: arezza.jpg
+  degree: MASc
+  thesis: TBD
+  background: Bachelor of Information Technology, Photonics & Laser Technology
+  quote: We don't stop playing because we grow old; we grow old because we stop playing. (George Bernard Shaw)
+  biography: |
+    Bio coming soon...
+
+- name: Zein Hajj-Ali
+  joined: September 2020
+  memberid: zhajjali
+  title: Masters Student
+  interests: Machine Learning, Software Development, Systems Design
+  email: zein.hajjali@carleton.ca
+  website: http://zeinh.ca
+  scholarurl: ""
+  orcidurl: "https://orcid.org/0000-0003-3919-1193"
+  img: hajj-ali.png
+  degree: MASc
+  thesis: TBD
+  background: Computer Systems Engineering
+  quote: For me, I am driven by two main philosophies, know more today about the world than I knew yesterday. And along the way, lessen the suffering of others. You'd be surprised how far that gets you. (Neil deGrasse Tyson)
+  biography: |
+    I am a masters student interested in the use of Machine Learning in a wide range of applications. I would like to play a part in advancing the practical uses of machine learning and artificial intelligence as a whole in the medical field. I have an inclination towards academics and learning, and a desire to share my love of engineering with the world. Aside from that, I try to spend as much time as possible outdoors in the sun.
+
+- name: Joshua Tanner
+  joined: May 2020
+  memberid: jtanner
+  title: MEng Candidate
+  interests: Machine Learning, Computer Vision, Data Science
+  email: joshuatanner@cmail.carleton.ca
+  website: "https://www.linkedin.com/in/joshua-tanner-6555ba133/"
+  img: tanner.jpg
+  degree: MEng
+  thesis: "N/A"
+  background: Mechanical Engineering
+  quote: You master the fundamentals so you can forget them, so you can improvise and just concentrate on what really matters. (Kyrie Irving)
+  biography: |
+    I completed my Bachelor’s of Mechanical Engineering at Carleton. Currently at Carleton, I am pursuing a Master’s of Engineering in Electrical and Computer Engineering with a Specialization in Data Science. In the past, I have industry experience in signal processing as well as project experience in computer vision for robotic applications. Today, my machine learning research focuses on deep learning for computer vision.
+
+- name: Daniel Kyrollos
+  joined: May 2020
+  memberid: dkyrollos
+  title: MASc Candidate
+  interests: Machine Learning, Data Science, Signal Processing, Biomedical Engineering
+  email: danielkyrollos@cmail.carleton.ca
+  scholarurl: "https://scholar.google.co.uk/citations?user=IyYsKTIAAAAJ&hl=en"
+  orcidurl: "https://orcid.org/0000-0002-1203-959X"
+  img: danielkyrollos.jpg
+  degree: MASc
+  thesis: Patient Monitoring in the NICU
+  background: Biomedical Engineering
+  quote: The wonders of yesterday are today common occurrences. (Nikola Tesla)
+  biography: |
+    I completed a B.Eng degree in Biomedical and Electrical Engineering from Carleton and am currently pursuing a Master of Applied Science in Electrical and Computer Engineering with a specialization in Data Science at Carleton University. My research interests include data science and signal processing. My proposed thesis project aims to investigate novel patient monitoring technologies in the neonatal intensive care unit. The goal is to examine the use of pressure-sensitive mats and video data to provide continuous, unobtrusive, and non-contact monitoring of critically ill babies.
+
+- name: Victoria Ajila
+  joined: May 2021
+  memberid: vajila
+  title: MASc Candidate
+  interests: N/A
+  email: victoriaajila@cmail.carleton.ca
+  scholarurl: ""
+  orcidurl: ""
+  #img: danielkyrollos.jpg
+  degree: MASc
+  thesis: N/A
+  background: Biomedical Engineering
+  quote: N/A
+  biography: |
+          N/A

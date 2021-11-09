@@ -1,0 +1,1834 @@
+#JOURNAL PAPERS
+- title: "RGB-D Scene Analysis in the NICU"
+  type: "article"
+  projectid: monitoring
+  year: 2021
+  authors:
+    - "Y Souley Dosso"
+    - "K Greenwood" 
+    - "J Harrold" 
+    - "JR Green"
+  memberids:
+    - ysouleydosso
+    - jrgreen
+  journal: "Computers in Biology and Medicine"
+  volume: "138"
+  number: ""
+  doi: "10.1016/j.compbiomed.2021.104873"
+  status: ""
+
+
+- title: "Human-Soybean Allergies: Elucidation of the Seed Proteome & Comprehensive Protein-Protein Interaction Prediction"
+  type: "article"
+  projectid: bioinformatics
+  year: 2021
+  authors:
+    - "K Dick"
+    - "J Hooker"
+    - "N Nissan"
+    - "A Pattang"
+    - "M Sadowski"
+    - "B Barnes"
+    - "LH Tan"
+    - "D Burnside"
+    - "S Phanse"
+    - "H Aoki" 
+    - "M Babu"
+    - "F Dehne"
+    - "A Golshani"
+    - "ER Cober" 
+    - "JR Green" 
+    - "B Samanfar"
+  memberids:
+    - kdick
+    - jrgreen
+  journal: "Journal of Proteome Research"
+  volume: "20"
+  number: "11"
+  doi: "10.1021/acs.jproteome.1c00138"
+  status: ""
+
+
+- title: "Integrating Physiological Data Artifacts Detection With Clinical Decision Support Systems: Observational Study"
+  type: "article"
+  projectid: monitoring
+  year: 2021
+  authors:
+    - "S Nizami"
+    - "C McGregor"
+    - "JR Green"
+  memberids:
+    - jrgreen
+  journal: "JMIR Biomed Eng"
+  volume: "6"
+  number: "2"
+  doi: "10.2196/23495"
+  status: ""
+
+- title: "Multi-schema computational prediction of the comprehensive SARS-CoV-2 vs. human interactome"
+  type: "article"
+  projectid: bioinformatics
+  year: 2021
+  authors:
+    - "K Dick"
+    - "A Chopra"
+    - "KK Biggar"
+    - "JR Green"
+  memberids:
+    - kdick
+    - jrgreen
+  journal: "PeerJ"
+  volume: "9"
+  number: "e11117"
+  doi: "10.7717/peerj.11117"
+  status: ""
+
+- title: "Automatic 1D 1H NMR Metabolite Quantification for Bioreactor Monitoring"
+  type: "article"
+  projectid: bioinformatics
+  year: 2021
+  authors:
+    - "RCC Wang"
+    - "DA Campbell"
+    - "JR Green"
+    - "M Čuperlović-Culf"
+  memberids:
+    - jrgreen
+  journal: "Metabolites"
+  volume: "11"
+  number: "3"
+  doi: "10.3390/metabo11030157"
+  status: ""
+
+- title: "Using Machine Learning and Targeted Mass Spectrometry to Explore the Methyl-Lys Proteome"
+  type: "article"
+  projectid: bioinformatics
+  year: 2020
+  authors:
+    - "F Charih"
+    - "JR Green"
+    - "KK Biggar"
+  memberids:
+    - fcharih
+    - jrgreen
+  journal: "Star Protocols"
+  volume: ""
+  number: ""
+  doi: "10.1016/j.xpro.2020.100135"
+  status: ""
+
+- title: "RPmirDIP: Reciprocal Perspective Improves miRNA Targeting Prediction"
+  type: "article"
+  projectid: bioinformatics
+  year: 2020
+  authors:
+    - "D Kyrollos"
+    - "B Reid"
+    - "K Dick"
+    - "JR Green"
+  memberids:
+    - kdick
+    - jrgreen
+    - dkyrollos
+  journal: "Scientific Reports"
+  volume: "10"
+  number: "11770"
+  doi: "10.1038/s41598-020-68251-4"
+  status: ""
+
+- title: "Proteome-wide Prediction of Lysine Methylation Leads to Identification of H2KB43 Methylation and Outlines the Potential of the Methyllysine Proteome"
+  type: "article"
+  projectid: bioinformatics
+  year: 2020
+  authors:
+    - "KK Biggar"
+    - "F Charih"
+    - "H Liu"
+    - "YB Ruiz-Blanco"
+    - "L Stalker"
+    - "A Chopra"
+    - "J Connolly"
+    - "H Adhikary"
+    - "K Frensemier"
+    - "M Hoekstra"
+    - "M Galka"
+    - "Q Fang"
+    - "C Wynder"
+    - "WL Standford"
+    - "JR Green"
+    - "SS-C Li"
+  memberids:
+    - jrgreen
+    - fcharih
+  journal: "Cell Reports"
+  volume: "32"
+  number: "107896"
+  doi: "10.1016/j.celrep.2020.107896"
+  status: ""
+
+
+- title: "A computational drug repositioning method applied to rare diseases: Adrenocortical carcinoma"
+  type: "article"
+  projectid: bioinformatics
+  year: 2020
+  authors:
+    - "M Lotfi Shahreza"
+    - "N Ghadiri"
+    - "JR Green"
+  memberids:
+    - jrgreen
+  journal: "Scientific Reports"
+  volume: "10"
+  number: "8846"
+  doi: "10.1038/s41598-020-65658-x"
+
+- title: "Whole-body vibration in neonatal transport: a review of current knowledge and future research challenges"
+  type: "article"
+  projectid: vibration
+  year: 2020
+  authors:
+    - "I Goswami"
+    - "S Redpath"
+    - "RG Langlois"
+    - "JR Green"
+    - "KS Kee"
+    - "HEA White"
+  memberids:
+    - jrgreen
+  journal: "Early Human Development"
+  volume: ""
+  number: ""
+  status: "in press"
+
+- title: "Data-Driven Audiogram Classification for Mobile Audiometry"
+  type: "article"
+  projectid: audiology
+  year: 2020
+  authors:
+    - "F Charih"
+    - "M Bromwich"
+    - "AE Mark"
+    - "R Lefrançois"
+    - "JR Green"
+  memberids:
+    - fcharih
+    - jrgreen
+  journal: "Scientific Reports"
+  volume: "10"
+  number: "3962"
+  doi: 10.1038/s41598-020-60898-3
+
+- title: "PIPE4: Fast PPI Predictor for Comprehensive Inter- and Cross-Species Interactomes"
+  type: "article"
+  projectid: ppi
+  year: 2020
+  authors:
+    - "K Dick"
+    - "B Samanfar"
+    - "B Barnes"
+    - "ER Cober"
+    - "B Mimee"
+    - "LH Tan"
+    - "SJ Molnar"
+    - "KK Biggar"
+    - "A Golshani"
+    - "F Dehne"
+    - "JR Green"
+  memberids:
+    - kdick
+    - jrgreen
+  journal: "Scientific Reports"
+  volume: "10"
+  number: "1390"
+  doi: 10.1038/s41598-019-56895-w
+
+- title: "A Semi-Supervised Machine Learning Framework for MicroRNA Classification"
+  type: "article"
+  projectid: mirna
+  year: 2019
+  authors:
+    - "M Sheikh Hassani"
+    - "JR Green"
+  memberids:
+    - msheikhhassani
+    - jrgreen
+  journal: "BMC Human Genomics"
+  volume: "13-Sup1"
+  number: "43"
+  doi: 10.1186/s40246-019-0221-7
+
+- title: "Multi-view Co-training for microRNA Prediction"
+  type: "article"
+  projectid: mirna
+  year: 2019
+  authors:
+    - "M Sheikh Hassani"
+    - "JR Green"
+  memberids:
+    - msheikhhassani
+    - jrgreen
+  journal: "Scientific Reports"
+  volume: "9"
+  number: "10931"
+  doi: 10.1038/s41598-019-47399-8
+
+- title: "ProtDCal-Suite: A web server for the numerical codification and functional analysis of proteins"
+  type: "article"
+  projectid: proteins
+  year: 2019
+  authors:
+    - "S Romero-Molina"
+    - "YB Ruiz-Blanco"
+    - "JR Green"
+    - "E Sanchez-Garcia"
+  memberids:
+    - jrgreen
+  journal: "Protein Science"
+  volume: "28"
+  number: "9"
+  pages: "1734-1743"
+  doi: 10.1002/pro.3673
+
+- title: "miPIE: NGS-based Prediction of miRNA Using Integrated Evidence"
+  type: "article"
+  projectid: mirna
+  year: 2019
+  authors:
+    - "RJ Peace"
+    - "M Sheikh Hassani"
+    - "JR Green"
+  memberids:
+    - msheikhhassani
+    - rpeace
+    - jrgreen
+  journal: "Scientific Reports"
+  volume: "9"
+  number: "1548"
+  doi: 10.1038/s41598-018-38107-z
+- title: "A robust computational tool for engineering synthetic binding proteins from random amino acid sequences"
+  type: article
+  year: 2019
+  journal: "iScience"
+  authors:
+    - D Burnside
+    - A Schoenrock
+    - H Moteshareie
+    - M Hooshyar
+    - P Basra
+    - M Hajikarimloo
+    - K Dick
+    - B Barnes
+    - T Kazmirchuk
+    - M Jessulat
+    - S Pitre
+    - B Samanfar
+    - M Babu
+    - JR Green
+    - A Wong
+    - F Dehne
+    - KK Biggar
+    - A Golshani
+  memberids:
+    - kdick
+    - jrgreen
+  pages: "375-387"
+  volume: "11"
+  number: ""
+  doi: "10.1016/j.isci.2018.11.038"
+
+- title: "Insights into the suitability of utilizing brown rats (Rattus norvegicus) as a model for healing spinal cord injury with epidermal growth factor and fibroblast growth factor-II by predicting protein-protein interactions"
+  type: article
+  year: 2019
+  journal: "Computers in Biology and Medicine"
+  memberids:
+    - kdick
+    - jrgreen
+  authors:
+    - N Grigg
+    - A Schoenrock
+    - K Dick
+    - JR Green
+    - A Golshani
+    - A Wong
+    - F Dehne
+    - EC Tsai
+    - KK Biggar
+  pages: "220-226"
+  volume: "104"
+  number: ""
+  doi: "10.1016/j.compbiomed.2018.11.026"
+
+- title: "Deep Learning for Critical Infrastructure Resilience"
+  type: article
+  year: 2019
+  journal: "Journal of Infrastructure Systems"
+  authors:
+    - K Dick
+    - L Russell
+    - Dosso Souley
+    - F Kwamena
+    - JR Green
+  memberids:
+    - kdick
+    - ysouleydosso
+    - jrgreen
+  pages: ""
+  volume: "25"
+  number: "2"
+  doi: "10.1061/(ASCE)IS.1943-555X.0000477"
+
+- title: "Reciprocal Perspective for Improved Protein-Protein Interaction Prediction"
+  type: article
+  year: 2018
+  journal: "Scientific Reports"
+  authors:
+    - K Dick
+    - JR Green
+  memberids:
+    - kdick
+    - jrgreen
+  pages: ""
+  volume: "8"
+  number: "1"
+  doi: "10.1038/s41598-018-30044-1"
+
+- title: "Measuring uncertainty during respiratory rate estimation using pressure-sensitive mats"
+  type: article
+  year: 2018
+  journal: "IEEE Transactions on Instrumentation and Measurement"
+  authors:
+    - S Nizami
+    - A Bekele
+    - M Hozayen
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - snizami
+    - abekele
+    - jrgreen
+  pages: "1535-42"
+  volume: "67"
+  number: "7"
+  doi: "10.1109/TIM.2018.2805154"
+
+- title: "Prediction of aquatic toxicity of benzene derivatives using molecular descriptor from atomic weighted vectors"
+  type: article
+  year: 2017
+  journal: "Environmental Toxicology and Pharmacology"
+  authors:
+    - Y Martínez-López
+    - SJ Barigye
+    - O Martínez-Santiago
+    - Y Marrero-Ponce
+    - JR Green
+    - JA Castillo-Garit
+  memberids:
+    - jrgreen
+  pages: "314-321"
+  volume: "56"
+  number: ""
+  doi: "10.1016/j.etap.2017.10.006"
+
+- title: "Designing Anti-Zika Virus Peptides Derived from Predicted Human-Zika Virus Protein-Protein Interactions"
+  type: article
+  year: 2017
+  journal: "Computational Biology and Chemistry"
+  authors:
+    - T Kazmirchuk
+    - K Dick
+    - DJ Burnside
+    - B Barnes
+    - H Moteshareie
+    - M Hajikarimlou
+    - K Omidi
+    - D Ahmed
+    - A Low
+    - C Lettl
+    - M Hooshyar
+    - A Schoenrock
+    - S Pitre
+    - M Babu
+    - E Cassol
+    - B Samanfar
+    - A Wong
+    - F Dehne
+    - JR Green
+    - A Golshani
+  memberids:
+    - kdick
+    - bbarnes
+    - jrgreen
+  pages: "180-197"
+  volume: "71"
+  number: ""
+  doi: "10.1016/j.compbiolchem.2017.10.011"
+
+- title: "Exploring general-purpose protein features for distinguishing enzymes and non-enzymes within the twilight zone"
+  type: article
+  year: 2017
+  journal: "BMC Bioinformatics"
+  authors:
+    - YB Ruiz-Blanco
+    - G Agüero-Chapin
+    - E García-Hernández
+    - O Álvarez
+    - A Antunes
+    - JR Green
+  memberids:
+    - jrgreen
+  pages: ""
+  volume: "18"
+  number: "349"
+  doi: "10.1186/s12859-017-1758-x"
+
+- title: "Heter-LP: A heterogeneous label propagation algorithm and its application in drug repositioning"
+  type: article
+  year: 2017
+  journal: "Journal of Biomedical Informatics"
+  authors:
+    - Shahreza Lotfi
+    - N Ghadiri
+    - SR Mossavi
+    - J Varshosaz
+    - JR Green
+  memberids:
+    - jrgreen
+  pages: "167-183"
+  volume: "68"
+  number: ""
+  doi: "10.1016/j.jbi.2017.03.006"
+
+- title: "Evolution of Protein-Protein Interaction Networks in Yeast"
+  type: article
+  year: 2017
+  journal: "PLoS One"
+  authors:
+    - A Schoenrock
+    - D Burnside
+    - H Moteshareie
+    - S Pitre
+    - M Hooshyar
+    - JR Green
+    - A Golshani
+    - F Dehne
+    - A Wong
+  memberids:
+    - jrgreen
+  pages: ""
+  volume: "12"
+  number: "3"
+  doi: "10.1371/journal.pone.0171920"
+
+- title: "A review of network-based approaches to drug repositioning"
+  type: article
+  year: 2017
+  journal: "Briefings in Bioinformatics"
+  authors:
+    - Shahreza Lotfi
+    - N Ghadiri
+    - SR Mossavi
+    - J Varshosaz
+    - JR Green
+  memberids:
+    - jrgreen
+  pages: "878-892"
+  volume: "19"
+  number: "5"
+  doi: "10.1093/bib/bbx017"
+
+- title: "Novel ‘extended sequons’ of Human N-glycosylation sites improve the precision of qualitative predictions: An alignment-free study of pattern recognition using ProtDCal protein features"
+  type: article
+  year: 2016
+  journal: "Amino Acids"
+  authors:
+    - YB Ruiz-Blanco
+    - Y Marrero-Ponce
+    - E García-Hernández
+    - JR Green
+  memberids:
+    - jrgreen
+  pages: "317-325"
+  volume: "49"
+  number: ""
+  doi: "10.1007/s00726-016-2362-5"
+
+- title: "A Framework for Improving MicroRNA Prediction in Non-Human Genomes"
+  type: article
+  year: 2015
+  journal: "Nucleic Acids Research"
+  authors:
+    - RJ Peace
+    - KK Biggar
+    - KB Storey
+    - JR Green
+  pages: "e138"
+  volume: "43"
+  number: "20"
+  doi: "10.1093/nar/gkv698"
+
+- title: "ProtDCal: A Program to Compute General-Purpose-Numerical Descriptors for Sequences and 3D-Structures of Proteins"
+  type: article
+  year: 2015
+  journal: "BMC Bioinformatics"
+  authors:
+    - YB Ruiz-Blanco
+    - W Paz
+    - JR Green
+    - Y Marrero-Ponce
+  pages: ""
+  volume: "16"
+  number: "1"
+  doi: "10.1186/s12859-015-0586-0"
+
+- title: "Efficient Prediction of Human Protein-Protein Interactions at a Global Scale"
+  type: article
+  year: 2014
+  journal: "BMC Bioinformatics"
+  authors:
+    - A Schoenrock
+    - B Samanfar
+    - S Pitre
+    - M Hooshyar
+    - K Jin
+    - CA Phillips
+    - H Wang
+    - S Phanse
+    - K Omidi
+    - Y Gui
+    - Md Alamgir
+    - A Wong
+    - F Barrenäs
+    - M Babu
+    - M Benson
+    - MA Langston
+    - JR Green
+    - F Dehne
+    - A Golshani
+  pages: ""
+  volume: "15"
+  number: "283"
+  doi: "10.1186/s12859-014-0383-1"
+
+- title: "A physics-based scoring function for protein structural decoys: Dynamic testing on targets of CASP-ROLL"
+  type: article
+  year: 2014
+  journal: "Chemical Physics Letters"
+  authors:
+    - YB Ruiz-Blanco
+    - Y Marrero-Ponce
+    - Y García
+    - A Puris
+    - R Bello
+    - JR Green
+    - CM Sotomayor-Torres
+  pages: "135-140"
+  volume: "610-611"
+  number: ""
+  doi: "10.1016/j.cplett.2014.07.014"
+
+- title: "Automated Biosignal Quality Analysis for Electromyography using a One-Class Support Vector Machine"
+  type: article
+  year: 2014
+  journal: "IEEE Transactions in Instrumentation and Measurement"
+  authors:
+    - GD Fraser
+    - ADC Chan
+    - JR Green
+    - D MacIsaac
+  pages: "2919-2930"
+  volume: "63"
+  number: "12"
+  doi: "10.1109/TIM.2014.2317296"
+
+- title: "Evaluation of a GPGPU-based de novo peptide sequencing algorithm"
+  type: article
+  year: 2014
+  journal: "Journal of Medical and Biological Engineering"
+  authors:
+    - S Chao
+    - JR Green
+    - JC Smith
+  pages: ""
+  volume: "34"
+  number: "5"
+  doi: "10.5405/jmbe.1713"
+
+- title: "Real-time Non-contact Optical Tongue Tracking"
+  type: article
+  year: 2014
+  journal: "Journal of Medical and Biological Engineering"
+  authors:
+    - A Ghadiri
+    - JR Green
+    - AE Marble
+  pages: ""
+  volume: "34"
+  number: "5"
+  doi: "10.5405/jmbe.1712"
+
+- title: "Identification of Thyroid Hormone Receptor Binding Sites in Developing Mouse Cerebellum"
+  type: article
+  year: 2013
+  journal: "BMC Genomics"
+  authors:
+    - R Gagne
+    - JR Green
+    - H Dong
+    - MG Wade
+    - CL Yauk
+  pages: ""
+  volume: "14"
+  number: "341"
+  doi: "10.1186/1471-2164-14-341"
+
+- title: "Thermal Imaging for Assisted Living At Home: Improving Kitchen Safety"
+  type: article
+  year: 2013
+  journal: "Journal of Medical and Biological Engineering"
+  authors:
+    - MY Yuan
+    - JR Green
+    - RA Goubran
+  pages: "380-387"
+  volume: "33"
+  number: "4"
+  doi: "10.5405/jmbe.1271"
+
+- title: "Implementation of Artifact Detection in Critical Care: A Methodological Review"
+  type: article
+  year: 2013
+  journal: "Reviews in Biomedical Engineering"
+  authors:
+    - S Nizami
+    - JR Green
+    - C McGregor
+  pages: "127-42"
+  volume: "6"
+  number: ""
+  doi: "10.1109/RBME.2013.2243724"
+
+- title: "Short Co-occurring Polypeptide Regions Can Predict Global Protein Interaction Maps"
+  type: article
+  year: 2012
+  journal: "Scientific Reports"
+  authors:
+    - S Pitre
+    - M Hooshyar
+    - A Schoenrock
+    - B Samanfar
+    - M Jessulat
+    - JR Green
+    - F Dehne
+    - A Golshani
+  pages: ""
+  volume: "2"
+  number: "239"
+  doi: "10.1038/srep00239"
+
+- title: "Recent Advances in Protein-Protein Interaction Prediction: Experimental and Computational Methods"
+  type: article
+  year: 2011
+  journal: "Expert Opinion on Drug Discovery"
+  authors:
+    - M Jessulat
+    - S Pitre
+    - Y Gui
+    - M Hooshyar
+    - O Omidi
+    - B Samanfar
+    - LH Tan
+    - Md Alamgir
+    - JR Green
+    - F Dehne
+    - A Golshani
+  pages: "921-935"
+  volume: "6"
+  number: "9"
+  doi: "10.1517/17460441.2011.603722"
+
+- title: "Binding Site Prediction for Protein-Protein Interactions and Novel Motif Discovery using Re-occurring Polypeptide Sequences"
+  type: article
+  year: 2011
+  journal: "BMC Bioinformatics"
+  authors:
+    - A Amos-Binks
+    - C Patulea
+    - S Pitre
+    - A Schoenrock
+    - Y Gui
+    - JR Green
+    - A Golshani
+    - F Dehne
+  pages: ""
+  volume: "12"
+  number: "225"
+  doi: "10.1186/1471-2105-12-225"
+
+- title: "Exact String Matching For MS/MS Protein Identification Using the Cell Broadband Engine"
+  type: article
+  year: 2011
+  journal: "Journal of Medical and Biological Engineering"
+  authors:
+    - R Peace
+    - H Mahmoud
+    - JR Green
+  pages: ""
+  volume: "31"
+  number: "2"
+  doi: "10.5405/jmbe.824"
+
+- title: "Computational Approaches Towards the Design of Pools for the in vitro Selection of Complex Aptamers"
+  type: article
+  year: 2010
+  journal: "RNA"
+  authors:
+    - X Luo
+    - M McKeague
+    - S Pitre
+    - M Dumontier
+    - JR Green
+    - A Golshani
+    - M.C DeRosa
+    - F Dehne
+  pages: ""
+  volume: "16"
+  number: "11"
+  doi: "10.1261/rna.2102210"
+
+- title: "MISO Dynamic Nonlinear Protein Secondary Structure Prediction"
+  type: article
+  year: 2009
+  journal: "BMC Bioinformatics"
+  authors:
+    - JR Green
+    - MJ Korenberg
+    - Aboul-Magd and
+  pages: ""
+  volume: "10"
+  number: "222"
+  doi: "10.1186/1471-2105-10-222"
+
+- title: "Global investigation of protein-protein interactions in yeast Saccharomyces cerevisiae using re-occurring short polypeptide sequences"
+  type: article
+  year: 2008
+  journal: "Nucleic Acids Research"
+  authors:
+    - S Pitre
+    - C North
+    - Md Alamgir
+    - M Jessulat
+    - A Chan
+    - X Luo
+    - JR Green
+    - M Dumontier
+    - F Dehne
+    - A Golshani
+  pages: "4286-4294"
+  volume: "36"
+  number: "13"
+  doi: "10.1093/nar/gkn390"
+
+- title: "Computational Methods for Predicting Protein-Protein Interactions"
+  type: article
+  year: 2008
+  journal: "Adv Biochem Eng Biotechnol."
+  authors:
+    - S Pitre
+    - Md Alamgir
+    - JR Green
+    - M Dumontier
+    - F Dehne
+    - A Golshani
+  pages: "247-267"
+  volume: "34"
+  number: "4"
+  doi: "10.1007/10_2007_089"
+
+- title: "Recognition of Adenosine Triphosphate Binding Sites Using Parallel Cascade System Identification"
+  type: article
+  year: 2003
+  journal: "Ann. Biomed. Eng."
+  authors:
+    - JR Green
+    - MJ Korenberg
+    - R David
+    - I Hunter
+  pages: "462-470"
+  volume: "31"
+  number: "4"
+  doi: "10.1114/1.1561293"
+
+- title: "Computational Selection of Distinct Class- and Subclass-Specific Toxicant Gene Expression Signatures"
+  type: article
+  year: 2003
+  journal: "J. Biomed. Info."
+  authors:
+    - PR Bushel
+    - HK Hamadeh
+    - L Bennett
+    - JR Green
+    - A Ableson
+    - S Misener
+    - C.A Afshari
+    - R.S Paules
+  pages: "160-170"
+  volume: "35"
+  number: "3"
+  doi: "10.1016/S1532-0464(02)00525-7"
+
+- title: "Parallel Cascade Recognition of Exon and Intron DNA Sequences"
+  type: article
+  year: 2002
+  journal: "Ann. Biomed. Eng."
+  authors:
+    - MJ Korenberg
+    - E Lipson
+    - JR Green
+    - JE Solomon
+  pages: "129-140"
+  volume: "30"
+  number: "1"
+  doi: "10.1114/1.1433490"
+
+#CONFERENCE PAPERS
+- title: "Bottle-Feeding Intervention Detection in the NICU"
+  type: conference
+  conference:  "IEEE Engineering in Medicine and Biology Conference"
+  date: "1-5 Nov 2021"
+  authors:
+    - Y Souley Dosso
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - ysouleydosso
+    - jrgreen
+  location: "Guadalajara, Mexico"
+
+- title: "A Fusion Model for Cross-Subject Stress Level Detection Based on Transfer Learning"
+  type: conference
+  conference:  "Sensors Applications Symposium"
+  date: "23-25 Aug 2021"
+  authors:
+    - M Mozafari
+    - RA Goubran
+    - JR Green
+  memberids:
+    - mmozafari
+    - jrgreen
+  location: "Sundsvall, Sweden"
+
+- title: "Detection of False Alarms in the NICU Using Pressure Sensitive Mat"
+  type: conference
+  conference:  "Sensors Applications Symposium"
+  date: "23-25 Aug 2021"
+  authors:
+    - D Kyrollos
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - dkyrollos
+    - jtanner
+    - jrgreen
+  location: "Sundsvall, Sweden"
+
+
+
+- title: "Noncontact Neonatal Respiration Rate Estimation Using Machine Vision"
+  type: conference
+  conference:  "Sensors Applications Symposium"
+  date: "23-25 Aug 2021"
+  authors:
+    - D Kyrollos
+    - JB Tanner
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - dkyrollos
+    - jtanner
+    - jrgreen
+  location: "Sundsvall, Sweden"
+
+
+- title: "RGB-D Sensor Application for Non-Contact Neonatal Monitoring"
+  type: conference
+  conference:  "Sensors Applications Symposium"
+  date: "23-25 Aug 2021"
+  authors:
+    - Y Souley Dosso
+    - R Selzler
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - ysouleydosso
+    - rselzler
+    - jrgreen
+  location: "Sundsvall, Sweden"
+
+
+- title: "Fusing Pressure-Sensitive Mat Data with Video through Multi-Modal Registration"
+  type: conference
+  conference:  "IEEE International Instrumentation and Measurement Technology Conference"
+  date: "17-20 May 2021"
+  authors:
+    - D Kyrollos
+    - R Hassan
+    - Y Souley Dosso
+    - JR Green
+  memberids:
+    - dkyrollos
+    - ysouleydosso
+    - jrgreen
+  location: "Glasgow, Scotland"
+
+
+- title: "Chaos Game Representation of Audio Signals"
+  type: conference
+  conference:  "IEEE International Instrumentation and Measurement Technology Conference"
+  date: "17-20 May 2021"
+  authors:
+    - M Cohen-McFarlane
+    - K Dick
+    - JR Green
+    - R Goubran
+  memberids:
+    - kdick
+    - jrgreen
+  location: "Glasgow, Scotland"
+
+- title: "Injury Risk and Comfort Assessment Applied to Ambulance Transportation"
+  type: conference
+  conference:  "7th International Conference of Control Systems, and Robotics"
+  date: "9-11 Nov 2020"
+  authors:
+    - D Kyrollos
+    - T Stachiw
+    - JR Green
+    - RG Langlois
+  memberids:
+    - dkyrollos
+    - jrgreen
+  location: "Niagara Falls, Ontario"
+
+
+
+- title: "Video-based Neonatal Motion Detection"
+  type: conference
+  conference:  "IEEE Engineering in Medicine and Biology Conference - EMBC 2020"
+  date: "20-24 July 2020"
+  authors:
+    - Dosso Souley
+    - S Aziz
+    - S Nizami
+    - C Aubertin
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - ysouleydosso
+  location: "Montreal, Quebec"
+
+- title: "Preliminary Laboratory Vibration Testing of a Complete Neonatal Patient Transport System"
+  type: conference
+  conference:  "IEEE Engineering in Medicine and Biology Conference - EMBC 2020"
+  date: "20-24 July 2020"
+  authors:
+    - F Darwaish
+    - R Selzler
+    - A Law
+    - E Chen
+    - A Ibey
+    - C Aubertin
+    - K Greenwood
+    - S Redpath
+    - ADC Chan
+    - JR Green
+    - RG Langlois
+  memberids:
+    - fdarwaish
+    - rselzler
+  location: "Montreal, Quebec"
+
+- title: "Exploratory Analysis of Ultra-Short-Term Heart Rate Variability Features in Virtual Rehabilitation Sessions"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "1-3 June 2020"
+  authors:
+    - R Selzler
+    - A Smith
+    - F Charih
+    - A Boyle
+    - J Holly
+    - C Bridgewater
+    - M Besemann
+    - D Curan
+    - ADC Chan
+    - JR Green
+  memberids:
+    - rselzler
+    - asmith
+    - fcharih
+  location: "Bari, Italy"
+
+- title: "Detection of Neonatal Patient Motion Using a Pressure-Sensitive Mat"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "1-3 June 2020"
+  authors:
+    - S Aziz
+    - Dosso Souley
+    - S Nizami
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - saziz
+    - ysouleydosso
+    - snizami
+  location: "Bari, Italy"
+
+- title: "Measuring Variability in Neonatal Face Tracking for Non-Contact Continuous Patient Monitoring"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "1-3 June 2020"
+  authors:
+    - Dosso Souley
+    - S Aziz
+    - S Nizami
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - ysouleydosso
+    - saziz
+  location: "Bari, Italy"
+
+- title: "Gas Prices of America: The Machine-Augmented Crowd-Sourcing Era"
+  type: conference
+  conference:  "CRV 2020 Computer and Robot Vision"
+  date: "13-15 May 2020"
+  authors:
+    - K Dick
+    - F Charih
+    - J Woo
+    - JR Green
+  memberids:
+    - kdick
+    - fcharih
+  location: "Ottawa, Canada"
+
+- title: "Investigating Vibration Levels in a Neonatal Transport System"
+  type: conference
+  conference:  "Can Med Biol Eng Conf (CMBEC42)"
+  date: "21-24 May 2019"
+  authors:
+    - JR Green
+    - R Langlois
+    - A Chan
+    - R Selzler
+    - F Darwaish
+    - A Ibey
+    - C Aubertin
+    - K Greenwood
+    - S Redpath
+  memberids:
+    - fdarwaish
+    - rselzler
+  location: "Ottawa, Canada"
+
+- title: "Developing a Real-Time Patient Monitor Data Import System"
+  type: conference
+  conference:  "National Conference on Undergraduate Research (NCUR2018)"
+  date: "4-7 Apr 2018"
+  authors:
+    - H Hozayen
+    - S Nizami
+    - A Bekele
+    - K Dick
+    - JR Green
+  memberids:
+    - snizami
+    - abekele
+    - kdick
+  location: "Edmond, Oklahoma"
+
+- title: "Active Learning for microRNA Prediction"
+  type: conference
+  conference:  "IEEE International Conference on Bioinformatics and Biomedicine - BIBM2018"
+  date: "3-6 Dec 2018"
+  authors:
+    - Hassani Sheikh
+    - JR Green
+  memberids:
+    - msheikhhassani
+  location: "Madrid, Spain"
+
+- title: "Ontology Driven Temporal Event Annotator mHealth Application Framework"
+  type: conference
+  conference:  "CASCON 2018"
+  date: "29-31 October 2018"
+  authors:
+    - A Bekele
+    - J Samuel
+    - S Nizami
+    - A Basharat
+    - PR Giffen
+    - JR Green
+  memberids:
+    - abekele
+  location: "Markham, Canada"
+
+- title: "Fitting Rank Order Data in the Age of Context"
+  type: conference
+  conference:  "IEEE Life Sciences Conference 2018"
+  date: "28-30 Oct 2018"
+  authors:
+    - K Dick
+    - JR Green
+  memberids:
+    - kdick
+  location: "Montreal, Quebec"
+
+- title: "Segmentation of Patient Images in the Neonatal Intensive Care Unit"
+  type: conference
+  conference:  "IEEE Life Sciences Conference 2018"
+  date: "28-30 Oct 2018"
+  authors:
+    - Dosso Souley
+    - A Bekele
+    - S Nizami
+    - C Aubertin
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - ysouleydosso
+    - abekele
+    - snizami
+  location: "Montreal, Quebec"
+
+- title: "Applications of Machine Learning Methods in Retrospective Studies on Hearing"
+  type: conference
+  conference:  "IEEE Life Sciences Conference 2018"
+  date: "28-30 Oct 2018"
+  authors:
+    - F Charih
+    - A Steeves
+    - M Bromwich
+    - AE Mark
+    - R Lefrançois
+    - JR Green
+  memberids:
+    - fcharih
+  location: "Montreal, Quebec"
+
+- title: "Neurodegenerative Disease Prediction Based on Gait Analysis Signals Acquired with Force-Sensitive Resistors"
+  type: conference
+  conference:  "IEEE Life Sciences Conference 2018"
+  date: "28-30 Oct 2018"
+  authors:
+    - R Selzler
+    - JR Green
+    - RA Goubran
+  memberids:
+    - rselzler
+  location: "Montreal, Quebec"
+
+- title: "A Wearable Electronic Swim Coach for Blind Athletes"
+  type: conference
+  conference:  "IEEE Life Sciences Conference 2018"
+  date: "28-30 Oct 2018"
+  authors:
+    - J Oommen
+    - D Bews
+    - M Hassani Sheikh
+    - Y Ono
+    - JR Green
+  memberids:
+    - msheikhhassani
+  location: "Montreal, Quebec"
+
+- title: "Eulerian Magnification of Multi-Modal RGB-D Video for Heart Rate Estimation"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "11-13 May 2018"
+  authors:
+    - Dosso Souley
+    - A Bekele
+    - JR Green
+  memberids:
+    - ysouleydosso
+    - abekele
+  location: "Rome, Italy"
+
+- title: "Measurement of Vibration Levels on Neonatal Transport Systems Using a Custom Data Logger"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "11-13 May 2018"
+  authors:
+    - R Selzler
+    - C Aubertin
+    - K Greenwood
+    - G MacLean
+    - S Redpath
+    - JR Green
+  memberids:
+    - rselzler
+  location: "Rome, Italy"
+
+- title: "Mining Audiograms to Improve the Interpretability of Automated Audiometry Measurements"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "11-13 May 2018"
+  authors:
+    - F Charih
+    - M Bromwich
+    - R Lefrancois
+    - A Mark
+    - JR Green
+  memberids:
+    - fcharih
+  location: "Rome, Italy"
+
+- title: "Real-time Neonatal Respiratory Rate Estimation using a Pressure-Sensitive Mat"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "11-13 May 2018"
+  authors:
+    - A Bekele
+    - S Nizami
+    - Dosso Souley
+    - C Aubertin
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - abekele
+    - snizami
+    - ysouleydosso
+  location: "Rome, Italy"
+
+- title: "CEA: Clinical Event Annotator mHealth Application for Real-time Patient Monitoring"
+  type: conference
+  conference:  "IEEE 40th International Engineering in Medicine and Biology Conference (EMBC2018)"
+  date: "17-21 July 2018"
+  authors:
+    - S Nizami
+    - A Basharat
+    - A Shaukat
+    - U Hameed
+    - SA Raza
+    - A Bekele
+    - PR Giffen
+    - JR Green
+  memberids:
+    - snizami
+    - abekele
+  location: "Honolulu, HI, USA"
+
+- title: "Systematic Street View Sampling: High Quality Annotation of Power Infrastructure in Rural Ontario"
+  type: conference
+  conference:  "CRV 2018 Computer and Robot Vision"
+  date: "8-11 May 2018"
+  authors:
+    - K Dick
+    - F Charih
+    - Dosso Souley
+    - L Russell
+    - JR Green
+  memberids:
+    - kdick
+    - fcharih
+    - ysouleydosso
+  location: "Toronto, Canada"
+
+- title: "Pressure sensitive mat using proximity sensors for vital sign monitoring"
+  type: conference
+  conference:  "IEEE International Instrumentation and Measurement Technology Conference"
+  date: "14-17 May 2018"
+  authors:
+    - R Selzler
+    - JR Green
+    - RA Goubran
+    - F Knoefel
+  memberids:
+    - rselzler
+  location: "Houston, Texas, USA"
+
+- title: "Positome: A method for improving protein-protein interaction quality and prediction accuracy"
+  type: conference
+  conference:  "IEEE CIBCB 2017"
+  date: "August 2017"
+  authors:
+    - K Dick
+    - F Dehne
+    - A Golshani
+    - JR Green
+  memberids:
+    - kdick
+  location: "Manchester, UK"
+
+- title: "Comparing time and frequency domain estimation of neonatal respiratory rate using pressure-sensitive mats"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "7-10 May 2017"
+  authors:
+    - S Nizami
+    - A Bekele
+    - M Hozayen
+    - K Greenwood
+    - J Harrold
+    - JR Green
+  memberids:
+    - snizami
+    - abekele
+  location: "Rochester, MN, USA"
+
+- title: "Comparing metrological properties of pressure-sensitive mats for continuous patient monitoring"
+  type: conference
+  conference:  "2017 IEEE Sensors Applications Symposium"
+  date: "13-15 March 2017"
+  authors:
+    - S Nizami
+    - M Cohen-McFarlane
+    - JR Green
+    - RA Goubran
+  memberids:
+    - snizami
+    - mcohenmacfarlane
+  location: "Glassboro, New Jersey"
+
+- title: "Smart Monitoring of Fluid Intake and Bladder Voiding using Pressure Sensitive Mats"
+  type: conference
+  conference:  "37th Annual International Conference of the IEEE-EMBS (EMBC)"
+  date: "16-20 Aug 2016"
+  authors:
+    - M Cohen-McFarlane
+    - JR Green
+    - RA Goubran
+    - F Knoefel
+  memberids:
+    - mcohenmacfarlane
+  location: "Orlando, Florida, USA"
+
+- title: "Comparison of Sequence- and Structure-Based Protein-Protein Interaction Sites"
+  type: conference
+  conference:  "IEEE EMBS ISC 2016"
+  date: ""
+  authors:
+    - K Dick
+    - JR Green
+  memberids:
+    - kdick
+  location: "Ottawa, Cananda"
+
+- title: "Predicting Novel Protein-Protein Interactions Between the HIV-1 Virus and Homo Sapiens"
+  type: conference
+  conference:  "IEEE EMBS ISC 2016"
+  date: ""
+  authors:
+    - B Barnes
+    - M Karimloo
+    - A Schoenrock
+    - D Burnside
+    - E Cassol
+    - A Wong
+    - F Dehne
+    - A Golshani
+    - JR Green
+  memberids:
+    - bbarnes
+  location: "Ottawa, Canada"
+
+- title: "Monitoring Congestive Heart Failure using Pressure-Sensitive Mats"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications (MeMeA)"
+  date: "15-18 May 2016"
+  authors:
+    - M Cohen-McFarlane
+    - JR Green
+    - RA Goubran
+    - F Knoefel
+  memberids:
+    - mcohenmacfarlane
+  location: "Benevento, Italy"
+
+- title: "Characterization of Measurements from Pressure Sensitive Mats using an Anthropomorphic Body Model"
+  type: conference
+  conference:  "IEEE International Instrumentation and Measurement Technology Conference"
+  date: "23-26 May 2016"
+  authors:
+    - M Cohen-McFarlane
+    - JR Green
+    - RA Goubran
+    - F Knoefel
+  memberids:
+    - mcohenmacfarlane
+  location: "Taipei, Taiwan"
+
+- title: "Engineering Inhibitory Proteins with InSiPS: The In-Silico Protein Synthesizer"
+  type: conference
+  conference:  "Supercomputing 2015"
+  date: "November 2015"
+  authors:
+    - A Schoenrock
+    - D Burnside
+    - H Moteshareie
+    - JR Green
+    - A Wong
+    - A Golshani
+    - F Dehne
+  location: "Austin, Texas, USA"
+
+- title: "An Artifact Detection Framework for Clinical Decision Support Systems"
+  type: conference
+  conference:  "World Congress on Medical Physics & Biomedical Engineering"
+  date: "June 2015"
+  authors:
+    - S Nizami
+    - JR Green
+    - C McGregor
+  memberids:
+    - snizami
+  location: "Toronto, Canada"
+
+- title: "Updated Free Energy Parameters Increase MicroRNA Prediction Performance"
+  type: conference
+  conference:  "World Congress on Medical Physics & Biomedical Engineering"
+  date: "June 2015"
+  authors:
+    - RJ Peace
+    - JR Green
+  location: "Toronto, Canada"
+
+- title: "Differentiating Two Daily Activities Through Analysis of Short Ambulatory Video Clips"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications"
+  date: "May 2013"
+  authors:
+    - P Moradshahi
+    - JR Green
+    - E.D Lemair
+    - N Baddour
+  location: "Gatineau, Canada"
+
+- title: "Biosignal Quality Analysis of Surface EMG using a Correlation Coefficient Test for Normality"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications"
+  date: "May 2013"
+  authors:
+    - GD Fraser
+    - ADC Chan
+    - JR Green
+    - D MacIsaac
+  location: "Gatineau Canada"
+
+- title: "De Novo Peptide Sequencing Using General-Purpose Computing On a Graphics Processing Unit"
+  type: conference
+  conference:  "36th Conference of the Canadian Medical & Biological Engineering Society"
+  date: "May 2013"
+  authors:
+    - S Chao
+    - JR Green
+    - J.C Smith
+  location: "Ottawa, Canada"
+
+- title: "Calibration Interface for the Electronic Swim Coach"
+  type: conference
+  conference:  "36th Conference of the Canadian Medical & Biological Engineering Society"
+  date: "May 2013"
+  authors:
+    - AR Amos-Binks
+    - JR Green
+  location: "Ottawa, Canada"
+
+- title: "Using Local Binary Patterns for Non-Contact Optical Tongue Tracking"
+  type: conference
+  conference:  "36th Conference of the Canadian Medical & Biological Engineering Society"
+  date: "May 2013"
+  authors:
+    - A Ghadiri
+    - JR Green
+    - AE Marble
+  location: "Ottawa, Canada"
+
+- title: "RUTalking2Me? An Assistive Device Combining Beamforming And Speech Recognition"
+  type: conference
+  conference:  "36th Conference of the Canadian Medical & Biological Engineering Society"
+  date: "May 2013"
+  authors:
+    - C Miyata
+    - R Greiss
+    - JR Green
+    - J Ryan
+  location: "Ottawa, Canada"
+
+- title: "CleanEMG: Comparing interpolation strategies for power line interference quantification in surface EMG signals"
+  type: conference
+  conference:  "35th Conference of the Canadian Medical & Biological Engineering Society"
+  date: "May 2013"
+  authors:
+    - N Abser
+    - D MacIsaac
+    - ADC Chan
+    - G.D Fraser
+    - JR Green
+  location: "Ottawa, Canada"
+
+- title: "Detection of ADC clipping, quantization noise, and amplifier saturation in surface electromyography"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications"
+  date: "2012"
+  authors:
+    - G.D Fraser
+    - ADC Chan
+    - JR Green
+    - D MacIsaac
+  location: "Budapest, Hungary"
+
+- title: "Removal of electrocardiogram artifacts in surface electromyography using a moving average method"
+  type: conference
+  conference:  "IEEE International Symposium on Medical Measurements and Applications"
+  date: "2012"
+  authors:
+    - G.D Fraser
+    - ADC Chan
+    - JR Green
+    - D MacIsaac
+  location: "Budapest, Hungary"
+
+- title: "Active learning for the prediction of asparagine/aspartate hydroxylation sites on proteins"
+  type: conference
+  conference:  "Computation Intelligence and Bioinformatics (CIB2011)"
+  date: "7-9 Nov 2011"
+  authors:
+    - F Iyuke
+    - JR Green
+    - W Willmore
+  location: "Pittsburg, PA, USA"
+
+- title: "Service oriented architecture to support real-time implementation of artifact detection in critical care monitoring."
+  type: conference
+  conference:  "32nd Annual International Conference of the IEEE-EMBS (EMBC)"
+  date: "2011"
+  authors:
+    - S Nizami
+    - JR Green
+    - C McGregor
+  location: "Boston, MA, USA"
+
+- title: "CleanEMG - Power line inteference estimation in sEMG using an adaptive least squares algorithm"
+  type: conference
+  conference:  "32nd Annual International Conference of the IEEE-EMBS (EMBC)"
+  date: "2011"
+  authors:
+    - G.D Fraser
+    - ADC Chan
+    - JR Green
+    - N Abser
+    - D MacIsaac
+  location: "Boston MA, USA"
+
+- title: "CleanEMG: Quantifying power line interference in surface EMG signals"
+  type: conference
+  conference:  "34th Conference of the Canadian Medical & Biological Engineering Society and Festival of International Conferences on Caregiving"
+  date: "2011"
+  authors:
+    - N Abser
+    - D MacIsaac
+    - G Fraser
+    - ADC Chan
+    - JR Green
+  location: "Toronto, Canada"
+
+- title: "MP-PIPE: A Massively Parallel Protein-Protein Interaction Prediction Engine"
+  type: conference
+  conference:  "International Conference on Supercomputing (ICS'11)"
+  date: "May 31-June 4, 2011"
+  authors:
+    - A Schoenrock
+    - F Dehne
+    - JR Green
+    - A Golshani
+    - S Pitre
+  location: "Tucson, AZ, USA"
+
+- title: "CUDA-accelerated Genetic Feedforward-ANN Training for Data Mining"
+  type: conference
+  conference:  "HPCS2010"
+  date: "5-9 June 2010"
+  authors:
+    - C Patulea
+    - R Peace
+    - JR Green
+  location: "Toronto, Canada"
+
+- title: "Exact String Matching For MS/MS Protein Identification Using the Cell Broadband Engine"
+  type: conference
+  conference:  "CMBEC33"
+  date: "15-18 June 2010"
+  authors:
+    - R Peace
+    - H Mahmoud
+    - JR Green
+  location: "Vancouver, Canada"
+
+- title: "Towards Development of a Robotic Guide Dog"
+  type: conference
+  conference:  "CMBEC33"
+  date: "15-18 June 2010"
+  authors:
+    - M Walia
+    - T Lukmanji
+    - R Farrell
+    - JR Green
+  location: "Vancouver, Canada"
+
+- title: "Application Of Sensor Networks In A Smart Apartment"
+  type: conference
+  conference:  "CMBEC33"
+  date: "15-18 June 2010"
+  authors:
+    - O Salehi-Abari
+    - F Alaca
+    - JR Green
+    - R Goubran
+  location: "Vancouver, Canada"
+
+- title: "Analysis of Redundant Peaks in LC-MS/MS Datasets"
+  type: conference
+  conference:  "IEEE International Workshop on Medical Measurements and Applications (MeMeA)"
+  date: "30 April-1 May 2010"
+  authors:
+    - R Peace
+    - T Stewart
+    - JR Green
+    - J Smith
+  location: "Ottawa, Canada"
+
+- title: "Heart Disease Classification through HRV Analysis Using Parallel Cascade Identification and Fast Orthogonal Search"
+  type: conference
+  conference:  "IEEE International Workshop on Medical Measurements and Applications (MeMeA)"
+  date: "30 April-1 May 2010"
+  authors:
+    - S Nizami
+    - JR Green
+    - J.M Eklund
+    - C McGregor
+  location: "Ottawa, Canada"
+
+- title: "Plate Analyzer - A Yeast Colony Size Measurement System"
+  type: conference
+  conference:  "IEEE International Workshop on Medical Measurements and Applications (MeMeA)"
+  date: "30 April-1 May 2010"
+  authors:
+    - O Wetherow
+    - JR Green
+    - ADC Chan
+    - A Golshani
+  location: "Ottawa, Canada"
+
+- title: "Modeling Tryptic Digestion on the Cell BE Processor"
+  type: conference
+  conference:  "CCECE09"
+  date: "3-6 May 2009"
+  authors:
+    - JR Green
+    - H Mahmoud
+    - M Dumontier
+  location: "St. John's (NL), Canada"
+
+- title: "Stove Top Thermal Monitoring For Assisted Living At Home"
+  type: conference
+  conference:  "CMBEC31"
+  date: "10-13 June 2008"
+  authors:
+    - M.Y Yuan
+    - JR Green
+    - R Goubran
+  location: "Montreal, Canada"
+
+- title: "Smart Rollator Prototype"
+  type: conference
+  conference:  "MeMeA 2008"
+  date: "8-9 May 2008"
+  authors:
+    - ADC. Chan
+    - JR Green
+  location: "Ottawa, Canada"
+
+- title: "PCI-SS: Web-Based Human and Machine Interfaces to Protein Secondary Structure Prediction"
+  type: conference
+  conference:  "CCECE08"
+  date: "4-7 May, 2008"
+  authors:
+    - MD Aboul-Magd
+    - JR Green
+  location: "Niagara Falls, Canada"
+
+- title: "Eye-Interact: A Low-Cost Eye Movement Controlled Communication System"
+  type: conference
+  conference:  "CMBEC30"
+  date: "16-19 June 2007"
+  authors:
+    - A Sadeghian
+    - CH Yim
+    - ADC Chan
+    - JR Green
+  location: "Toronto, Canada"
+
+- title: "A Low Cost Non-Contact Approach to Tongue Tracking for Special Needs Children"
+  type: conference
+  conference:  "CMBEC30"
+  date: "16-19 June 2007"
+  authors:
+    - K Mulligan
+    - J LaRocque
+    - JR Green
+  location: "Toronto, Canada"
+
+- title: "Prediction of Protein Sumoylation Sites Via Parallel Cascade Identification"
+  type: conference
+  conference:  "CMBEC29"
+  date: "1-3 June 2006"
+  authors:
+    - JR Green
+    - GM Dmochowski
+    - A Golshani
+  location: "Vancouver, Canada"
+
+- title: "Nonlinear System Identification Provides Insight Into Protein Folding"
+  type: conference
+  conference:  "CCECE06"
+  date: "7-10 May, 2006"
+  authors:
+    - JR Green
+    - MJ Korenberg
+  location: "Ottawa, Canada"
+
+- title: "Gene expression pattern recognition algorithm inferences to classify samples exposed to chemical agents"
+  type: conference
+  conference:  "Proc. SPIE Int. Soc. Opt. Eng."
+  date: "2002"
+  authors:
+    - P.R Bushel
+    - L Bennett
+    - H Hamadeh
+    - J Green
+    - A Ableson
+    - S Misener
+    - R Paules
+    - C Afshari
+  location: "San Jose, CA, USA"
+
+- title: "An Analysis of Human Factors in Motor Vehicle Accident Investigations"
+  type: conference
+  conference:  "Proceedings of the Tenth Canadian Multi-Disciplinary Road Safety Conference"
+  date: "9-11 June 1997"
+  authors:
+    - JR Green
+  location: "Toronto, Canada"

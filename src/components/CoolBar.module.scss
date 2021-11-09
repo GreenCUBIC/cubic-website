@@ -1,0 +1,12 @@
+.coolBar {
+  color: white;
+  height: 200px;
+  width: 100%;
+  background-color: #272868;
+  position: relative;
+  @media only screen and (max-width: 1000px) {
+    svg {
+      display: none;
+    }
+  }
+}

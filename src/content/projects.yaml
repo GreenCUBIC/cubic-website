@@ -1,0 +1,133 @@
+- project: Prediction of protein-protein interactions
+  projectid: ppis
+  category: bioinformatics
+  ongoing: true
+  img: PIPE4.png
+  memberids:
+    - kdick
+    - fcharih
+    - apurohit
+    - earezza
+  collaborators:
+    - name: Dehne Lab
+      url: "http://people.scs.carleton.ca/~dehne/Public/www/Home/index.html"
+    - name: Golshani Group
+      url: "https://golshanilab.wixsite.com/home"
+  description: |
+    cuBIC participated actively in the development of the Protein-Protein Interaction Prediction Engine (PIPE) which
+    was the first algorithm capable of generating the comprehensive human interactome. Today, PIPE is currently in its
+    4th iteration, and we are continuously trying to improve its performance, and trying to apply it to elucidate new
+    interactomes such as that of human-SARS-CoV-2 for example.
+
+- project: In silico peptide design
+  projectid: peptides
+  category: bioinformatics
+  ongoing: true
+  img: tips_logo.png
+  memberids:
+    - fcharih
+  collaborators:
+    - name: Kyle Biggar
+      url: "http://biggarlab.ca"
+  description: |
+    Peptide inhibitor display outstanding specificity for their target, and as such, show great potential as therapeutics through
+    disruption of protein-protein interactions and/or modulation of enzyme activity. Unfortunately, designing peptide inhibitors
+    in the wet lab is labour and resource-intensive. Recent developments in *in silico* peptide design (e.g. InSiPS) have made
+    it possible to generate active peptide therapeutics using only the primary sequence of the targeted protein as an input.
+    Unfortunately, such methods are slow and have suboptimal convergence.<br/><br/>Consistent with our core belief that collaboration
+    across discipline is vital in the modern era, we initiated a partnership with the Biggar lab (biology) to develop a new method
+    that integrates wet lab experiments (eg. peptide arrays) with computational methods in an iterative fashion to improve the state of
+    the art in *in silico* peptide design.
+
+- project: Non-invasive monitoring of neonates in the NICU
+  projectid: nicu
+  category: monitoring
+  ongoing: true
+  img: nicu.jpg
+  memberids:
+    - ysouleydosso
+    - saziz
+    - zhajjali
+    - dkyrollos
+  collaborators:
+    - name: Kim Greenwood (Children's Hospital of Eastern Ontario)
+    - name: JoAnn Harrold (Children's Hospital of Eastern Ontario)
+  description: |
+    We apply state of the art machine vision and pressure-sensitive mat (PSM) technologies to
+    enable non-invasive monitoring of neonates in the NICU. As part of this research, conducted in
+    collaboration with experts from the Children's Hospital of Eastern Ontario (CHEO),
+    we develop apply existing and develop novel algorithms to analyze terabytes of RGB-depth imagery, and PSM data. We are interested in a variety of applications within this realm, including heart rate and respiratory rate estimation, event detection, false alarm reduction, etc.
+
+- project: Quantification of vibration experienced by neonatal patients during transport
+  projectid: patient-transport
+  category: monitoring
+  ongoing: true
+  img: patient_transport.png
+  memberids:
+    - fdarwaish
+    - dkyrollos
+  collaborators:
+    - name: National Research Council (NRC)
+  description: |
+          The aim of this project is to develop a robust methodology to accurately 
+          quantify, understand, and mitigate patient vibrations experienced during
+          emergency transport of neonates to the NICU. To this end, we employ a range
+          of instruments and techniques including shaker tables and digital signal processing.
+
+- project: ML-based stress monitoring in VR therapy for PTSD/TBI
+  projectid: saans
+  category: monitoring
+  ongoing: true
+  img: saans.jpg
+  memberids:
+    - rselzler
+    - fcharih
+  collaborators:
+    - name: RVR Lab
+      url: "https://www.ottawahospital.on.ca/en/clinical-services/deptpgrmcs/departments/rehabilitation-centre/about-the-rehabilitation-centre/our-facilities/rehabilitation-virtual-reality-lab/"
+  description: |
+          In collaboration with the RVR Lab, we apply cutting-edge maching learning techniques to monitor stress levels in patients
+          undergoing virtual reality-based treatment with the CAREN system. This stress levels must be carefully monitored in order
+          for the exercise to achieve a meaningful therapeutic
+          benefit. If stress levels are too high, dissociation may occur, which can be detrimental. Using
+          sensor data from various sources (respiration rate, heart rate, *etc.*), the system being developed aims to determine whether stimulation
+          should be increased or reduced so as to remain in the optimal therapeutic regime.
+
+- project: Automating the adjudication of NIHL-related claims
+  projectid: wsib
+  category: audiology
+  ongoing: false
+  img: nihl-portal.png
+  memberids:
+    - fcharih
+  collaborators:
+    - name: WSIB (Innovation Lab)
+      url: "https://www.wsib-lab.ca/"
+  description: |
+    The Workplace Safety and Insurance Board (WSIB) receives a large number of claims
+    related to occupational noise-induced hearing loss (NIHL) every year. The delay between the reception
+    of a claim and the final decision is long, and takes up to 6-8 months. In collaboration with
+    the WSIB, we developed software to streamline the process. We developed a solution that
+    digitizes audiological report (faxed images of low quality) to extract hearing thresholds from
+    the audiograms in the report. Our solution then applies a series of rules to evaluate the eligibility
+    of the claim and provides a preliminary decision.
+
+- project: Gas Prices of America
+  projectid: gpa
+  category: misc
+  ongoing: true
+  img: gpa.png
+  memberids:
+    - kdick
+    - jtanner
+    - fcharih
+  description: |
+    The rise of autonomous vehicles looms, and we anticipate that this will
+    opens a wide range of opportunities for remote sensing. The sensors that
+    will equip these vehicles will have the ability to collect and broadcast
+    astronomical quantities of data. In this project, we aim to develop
+    an algorithm capable of automatically extracting gas price data from gas
+    signs as an alternative solution to applications such as [GasBuddy](https://www.gasbuddy.com/). To this
+    end, we collect large amounts of street view imagery, and train machine learning
+    algorithms to accurately detect gas prices in images and associate them with the correct
+    gas grades and payment methods.

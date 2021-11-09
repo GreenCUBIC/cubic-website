@@ -1,0 +1,64 @@
+@import "../../public/stylesheets/globals.scss";
+
+.externalLink {
+  margin-right: 5px;
+  color: black;
+  &:hover {
+    color: var(--primary-color);
+    cursor: pointer;
+  }
+}
+
+.icon {
+  //  margin-right: 5px;
+  //  &:hover {
+  //    color: var(--primary-color);
+  //    cursor: pointer;
+  //  }
+}
+
+.imageAndName {
+  display: flex;
+  justify-content: left;
+  margin: 15px;
+  @media (max-width: 700px) {
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.8em;
+  }
+}
+
+.memberImage {
+  height: 140px;
+  width: 100px;
+  margin-right: 15px;
+}
+
+.memberName {
+  color: var(--primary-color);
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.memberTitle {
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.memberBio {
+  @media (max-width: 700px) {
+    font-size: 0.8em;
+  }
+}
+
+.centered {
+  text-align: center;
+}
+
+.contact {
+  display: flex;
+  margin-bottom: 1rem;
+  i:hover {
+    color: $primary-color;
+  }
+}

@@ -1,0 +1,22 @@
+@import "../../public/stylesheets/globals.scss";
+
+.journalPub {
+  font-size: 0.8rem;
+  text-align: left;
+  padding: 10px;
+  width: 100%;
+  color: $primary-color;
+  background: white;
+  a {
+    color: $primary-color;
+    text-decoration: underline;
+  }
+}
+
+.inverted {
+  color: white;
+  background: $primary-color;
+  a {
+    color: white;
+  }
+}

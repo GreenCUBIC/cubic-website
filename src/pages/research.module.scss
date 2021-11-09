@@ -1,0 +1,58 @@
+@import "public/stylesheets/globals.scss";
+
+.projectCard {
+  border: 2px solid $primary-color;
+  width: 100%;
+  margin: 20px;
+}
+
+.projectTitle {
+  font-size: 1.5rem;
+  text-align: left;
+  background: $primary-color;
+  color: white;
+  margin-top: 0px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  @media (max-width: 700px) {
+    font-size: 1.2rem;
+  }
+}
+
+.icon {
+  margin-right: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.projectContent {
+  display: flex;
+  align-items: center;
+  @media (max-width: 900px) {
+    flex-direction: column;
+  }
+}
+
+.projectImg {
+  height: 250px;
+  max-width: 300px;
+  @media (max-width: 900px) {
+    align-self: center;
+  }
+  padding: 10px;
+  width: auto;
+  height: auto;
+}
+
+.projectSection {
+  margin: 15px;
+}
+
+.sectionTitle {
+  text-align: left;
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: bold;
+}

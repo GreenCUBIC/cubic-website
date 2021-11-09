@@ -1,0 +1,63 @@
+.profileLink {
+  color: black;
+  cursor: pointer;
+  :hover {
+    font-weight: bold;
+  }
+}
+
+.externalLink {
+  margin-right: 5px;
+  color: black;
+  &:hover {
+    color: var(--primary-color);
+    cursor: pointer;
+  }
+}
+
+.memberCard {
+  //display: flex;
+  //flex-grow: 9999;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 200px;
+  width: 250px;
+  padding: 5px;
+  margin: 20px;
+  border: 3px solid var(--primary-color);
+  -webkit-box-shadow: 6px 7px 5px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 6px 7px 5px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 6px 7px 5px -4px rgba(0, 0, 0, 0.75);
+
+  @media only screen and (max-width: 600px) {
+    & {
+      flex-direction: column;
+    }
+  }
+}
+
+.memberText {
+  margin: 0px;
+}
+
+.memberName {
+  color: var(--primary-color);
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.memberTitle {
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.memberImage {
+  margin-bottom: 0px;
+  height: 140px;
+  width: 100px;
+}
+
+.contact {
+  margin-bottom: 1rem;
+}

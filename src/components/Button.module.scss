@@ -1,0 +1,35 @@
+@import "../stylesheets/globals.scss";
+
+.button {
+  margin: 10px auto;
+  width: fit-content;
+  text-decoration: none;
+  background-color: $primary-color;
+  color: white;
+  border-width: 2px;
+  border-color: white;
+  font-size: 1rem;
+  padding: 10px;
+  outline: none;
+  &:hover {
+    background-color: white;
+    color: $primary-color;
+    border-color: $primary-color;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  display: block;
+}
+
+.inverted {
+  background-color: white;
+  color: $primary-color;
+  border: 2px solid $primary-color;
+  &:hover {
+    background-color: $primary-color;
+    color: white;
+    border-color: white;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+}

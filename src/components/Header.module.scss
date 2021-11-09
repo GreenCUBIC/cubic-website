@@ -1,0 +1,87 @@
+@import "../stylesheets/globals.scss";
+
+.linkWrapper {
+  margin: 5px auto;
+  width: fit-content;
+  a {
+    text-decoration: none;
+    color: $primary-color;
+    text-align: center;
+  }
+  & div {
+    width: 0%;
+    height: 2px;
+    background: $primary-color;
+  }
+
+  &:hover {
+    div {
+      transition: 0.1s linear;
+      width: 100%;
+    }
+  }
+}
+
+.links {
+  display: flex;
+  padding: 10px;
+  @media (max-width: 700px) {
+    display: none;
+  }
+}
+
+.styledHeader {
+  color: var(--primary-color);
+  background: white;
+  margin-bottom: 0rem;
+  h1 {
+    margin: 0;
+  }
+  text-align: center;
+
+  -webkit-box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.75);
+  @media (max-width: 700px) {
+    align-items: center;
+    padding: 10px;
+  }
+}
+
+.imageAndDrawer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  @media (min-width: 700px) {
+    justify-content: center;
+  }
+}
+
+.mobileLinks {
+  //visibility: ${(props) => (props.toggled ? "visible" : "hidden")};
+  width: 100%;
+  transition: display 1s linear;
+  position: relative;
+  background: white;
+  margin: 0px;
+  z-index: 99;
+  @media (min-width: 700px) {
+    display: none;
+  }
+}
+
+.icon {
+  display: none;
+  @media (max-width: 700px) {
+    display: block;
+  }
+  :hover {
+    cursor: pointer;
+  }
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+}
