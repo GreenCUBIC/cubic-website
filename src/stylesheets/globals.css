@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Commissioner:wght@400;700&display=swap");
+
+html {
+	min-height: 100vh;
+	padding: 0px;
+	margin: 0px;
+	font-family: "Commissioner", sans-serif;
+  min-width: 100vw;
+}
+
+body {
+	min-height: 100vh;
+	padding: 0px;
+	margin: 0px;
+  min-width: 100%;
+}
+
+#__next {
+	min-height: 100vh;
+  min-width: 100%;
+}

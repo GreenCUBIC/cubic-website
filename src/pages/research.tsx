@@ -8,8 +8,8 @@ import ContentLayout from "../components/ContentLayout";
 import * as styles from "./research.module.scss";
 import { SlideDown } from "react-slidedown";
 import "react-slidedown/lib/slidedown.css";
-import members from "../content/members.yaml";
-import projects from "../content/projects.yaml";
+import members from "../../static/members.yaml";
+import projects from "../../static/projects.yaml";
 
 interface Props {
   projects: any;
@@ -62,7 +62,7 @@ const Research = () => {
               {expandedProject === i && (
                 <div className={`${styles.projectContent}`}>
                   <img
-                    src={`images/project_images/${project.img}`}
+                    src={`/images/project_images/${project.img}`}
                     className={`${styles.projectImg}`}
                   />
                   <div className={`${styles.projectDescription}`}>

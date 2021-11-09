@@ -6,8 +6,8 @@ import Layout from "../components/Layout";
 import Button from "../components/Button";
 import ContentLayout from "../components/ContentLayout";
 import * as styles from "./publications.module.scss";
-import publications from "../content/publications.yaml";
-import members from "../content/members.yaml";
+import publications from "../../static/publications.yaml";
+import members from "../../static/members.yaml";
 
 export const formatJournal = (entry) => {
   const converter = new Showdown.Converter();

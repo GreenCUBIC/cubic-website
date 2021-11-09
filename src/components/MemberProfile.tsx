@@ -32,7 +32,7 @@ const MemberProfile = ({ isOpen, memberInfo, close }) => {
       <div className={`${styles.imageAndName}`}>
         <img
           style={{ height: 140, marginRight: 15 }}
-          src={`images/lab_members/${memberInfo.img}`}
+          src={`/images/lab_members/${memberInfo.img}`}
         />
         <div>
           <div className={`${styles.memberName}`}>{memberInfo.name}</div>

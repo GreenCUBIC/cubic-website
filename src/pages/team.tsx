@@ -8,7 +8,7 @@ import ContentLayout from "../components/ContentLayout";
 import MemberProfile from "../components/MemberProfile";
 import * as styles from "./team.module.scss";
 
-import members from "../content/members.yaml";
+import members from "../../static/members.yaml";
 
 const Members = () => {
   const [selectedMemberId, setSelectedMemberId] = useState<string | null>(null);
