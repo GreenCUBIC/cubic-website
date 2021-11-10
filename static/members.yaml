@@ -115,7 +115,7 @@
   website: ""
   scholarurl: ""
   orcidurl: ""
-  img: ""
+  img: "mozafari.jpg"
   degree: PhD
   thesis: TBD
   background: N/A
@@ -125,50 +125,70 @@
 
 
 ################ MASTERS STUDENTS #####################
-- name: Fadwa Darwaish
-  alumni: true
-  memberid: fdarwaish
-  joined: June 2018
-  title: Master's Student
-  img: darwaish.jpeg
-  interests: Biomedical engineering
-  email: fadwadarwaish@cmail.carleton.ca
-  website: https://ca.linkedin.com/in/fadwa-darwaish-2a267bb4
-  scholarurl: ""
-  orcidurl: ""
-  degree: MASc
-  thesis: Investigating vibration levels experienced by neonatal patients while in transport
-  background: Biomedical and Electrical Engineering
-  quote: "God does not look at your forms and possessions but he looks at your hearts and your deeds. (Mohammed)"
-  biography: |
-    I am a master student in Electrical and Computer Engineering. I graduated with a degree in Biomedical and Electrical
-    Engineering in June 2018. I am currently an engineering intern in the EIT (Engineer In Training) program, in pursuit
-    of my P.Eng. designation. My thesis work is focused on investigating vibration levels experienced by neonatal patients
-    while in transport. The aim of this research is to quantify the vibration levels babies encounter through their
-    transport and eliminate them. I am interested in biomedical engineering for the purpose of changing lives and improving
-    people’s health.
+# - name: Fadwa Darwaish
+#   alumni: true
+#   memberid: fdarwaish
+#   joined: June 2018
+#   title: Master's Student
+#   img: darwaish.jpeg
+#   interests: Biomedical engineering
+#   email: fadwadarwaish@cmail.carleton.ca
+#   website: https://ca.linkedin.com/in/fadwa-darwaish-2a267bb4
+#   scholarurl: ""
+#   orcidurl: ""
+#   degree: MASc
+#   thesis: Investigating vibration levels experienced by neonatal patients while in transport
+#   background: Biomedical and Electrical Engineering
+#   quote: "God does not look at your forms and possessions but he looks at your hearts and your deeds. (Mohammed)"
+#   biography: |
+#     I am a master student in Electrical and Computer Engineering. I graduated with a degree in Biomedical and Electrical
+#     Engineering in June 2018. I am currently an engineering intern in the EIT (Engineer In Training) program, in pursuit
+#     of my P.Eng. designation. My thesis work is focused on investigating vibration levels experienced by neonatal patients
+#     while in transport. The aim of this research is to quantify the vibration levels babies encounter through their
+#     transport and eliminate them. I am interested in biomedical engineering for the purpose of changing lives and improving
+#     people’s health.
 
-- name: Aishwarya Purohit
-  alumni: true
-  memberid: apurohit
+    #- name: Aishwarya Purohit
+    #  alumni: true
+    #  memberid: apurohit
+    #  title: MASc candidate
+    #  email: francoischarih@sce.carleton.ca
+    #  img: purohit.jpeg
+    #  degree: MASc
+    #  thesis: Predicting the Site of Protein Interaction
+    #  background: Biotechnology
+    #  quote: It's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. (Elon Musk)
+    #
+    #- name: Samreen Aziz
+    #  memberid: saziz
+    #  title: MASc candidate
+    #  email: francoischarih@sce.carleton.ca
+    #  img: aziz.jpeg
+    #  degree: MASc
+    #  thesis: Detection of Neonatal Patient Movements using Pressure-senstive Mats
+    #  background: Neuroscience
+    #  quote: TBD
+- name: Ashlynn Steeves
+  joined: Sep 2021
+  memberid: asteeves
   title: MASc candidate
-  email: francoischarih@sce.carleton.ca
-  img: purohit.jpeg
+  email: ashlynnsteeves@cmail.carleton.ca
+  img: steeves.jpg
   degree: MASc
-  thesis: Predicting the Site of Protein Interaction
-  background: Biotechnology
-  quote: It's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. (Elon Musk)
-
-- name: Samreen Aziz
-  memberid: saziz
-  title: MASc candidate
-  email: francoischarih@sce.carleton.ca
-  img: aziz.jpeg
-  degree: MASc
-  thesis: Detection of Neonatal Patient Movements using Pressure-senstive Mats
-  background: Neuroscience
+  thesis: TBD
+  background: Biomedical Engineering
   quote: TBD
 
+- name: Jaser El-Habrouk
+  joined: Sep 2020
+  memberid: jelhabrouk
+  title: MASc candidate
+  email: jaserelhabrouk@cmail.carleton.ca
+  img: elhabrouk.jpg
+  degree: MASc
+  thesis: TBD
+  background: Computer Systems Engineering
+  quote: TBD
 
 
 - name: Eric Arezza
@@ -202,20 +222,20 @@
   biography: |
     I am a masters student interested in the use of Machine Learning in a wide range of applications. I would like to play a part in advancing the practical uses of machine learning and artificial intelligence as a whole in the medical field. I have an inclination towards academics and learning, and a desire to share my love of engineering with the world. Aside from that, I try to spend as much time as possible outdoors in the sun.
 
-- name: Joshua Tanner
-  joined: May 2020
-  memberid: jtanner
-  title: MEng Candidate
-  interests: Machine Learning, Computer Vision, Data Science
-  email: joshuatanner@cmail.carleton.ca
-  website: "https://www.linkedin.com/in/joshua-tanner-6555ba133/"
-  img: tanner.jpg
-  degree: MEng
-  thesis: "N/A"
-  background: Mechanical Engineering
-  quote: You master the fundamentals so you can forget them, so you can improvise and just concentrate on what really matters. (Kyrie Irving)
-  biography: |
-    I completed my Bachelor’s of Mechanical Engineering at Carleton. Currently at Carleton, I am pursuing a Master’s of Engineering in Electrical and Computer Engineering with a Specialization in Data Science. In the past, I have industry experience in signal processing as well as project experience in computer vision for robotic applications. Today, my machine learning research focuses on deep learning for computer vision.
+# - name: Joshua Tanner
+#   joined: May 2020
+#   memberid: jtanner
+#   title: MEng Candidate
+#   interests: Machine Learning, Computer Vision, Data Science
+#   email: joshuatanner@cmail.carleton.ca
+#   website: "https://www.linkedin.com/in/joshua-tanner-6555ba133/"
+#   img: tanner.jpg
+#   degree: MEng
+#   thesis: "N/A"
+#   background: Mechanical Engineering
+#   quote: You master the fundamentals so you can forget them, so you can improvise and just concentrate on what really matters. (Kyrie Irving)
+#   biography: |
+#     I completed my Bachelor’s of Mechanical Engineering at Carleton. Currently at Carleton, I am pursuing a Master’s of Engineering in Electrical and Computer Engineering with a Specialization in Data Science. In the past, I have industry experience in signal processing as well as project experience in computer vision for robotic applications. Today, my machine learning research focuses on deep learning for computer vision.
 
 - name: Daniel Kyrollos
   joined: May 2020
@@ -241,7 +261,7 @@
   email: victoriaajila@cmail.carleton.ca
   scholarurl: ""
   orcidurl: ""
-  #img: danielkyrollos.jpg
+  img: ajila.jpg
   degree: MASc
   thesis: N/A
   background: Biomedical Engineering
