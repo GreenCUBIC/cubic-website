@@ -15,6 +15,12 @@ To build the webpage locally, you will need to have Node.js and Gatsby installed
 on your machine. Instructions to install these should be easy to find for your
 machine (Windows/macOS/Linux).
 
+Once this is done, install the dependencies
+
+```
+npm install
+```
+
 To view the webpage locally, you can run in dev mode with the command (running
 from project root)
 
