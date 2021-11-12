@@ -70,7 +70,12 @@ const Research = () => {
                       <div className={`${styles.sectionTitle}`}>
                         Students involved
                       </div>
-                      {getMemberNames(project, members).join(", ")}
+                      {getMemberNames(
+                        project,
+                        members.filter((member) => !member.alumni)
+                      )
+                        .filter((name) => name !== null)
+                        .join(", ")}
                     </div>
                     <div className={`${styles.projectSection}`}>
                       {project.collaborators && (

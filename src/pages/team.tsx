@@ -45,6 +45,7 @@ const Members = () => {
         <div className={`${styles.memberGroup}`}>
           {members
             .filter((member) => member.degree === "PhD")
+            .filter((member) => member.alumni !== true)
             .map((member) => (
               <Member
                 img={member.img}
@@ -65,6 +66,7 @@ const Members = () => {
         <div className={`${styles.memberGroup}`}>
           {members
             .filter((member) => ["MASc", "MEng"].includes(member.degree))
+            .filter((member) => member.alumni !== true)
             .map((member) => (
               <Member
                 img={member.img}
@@ -79,6 +81,16 @@ const Members = () => {
                 quote={member.quote}
                 openProfile={() => setSelectedMemberId(member.memberid)}
               ></Member>
+            ))}
+        </div>
+        <h2>Recent Lab Alums</h2>
+        <div>
+          {members
+            .filter((member) => member.alumni)
+            .map((member) => (
+              <div>
+                {member.name}, {member.degree}, {member.graduationYear}
+              </div>
             ))}
         </div>
       </ContentLayout>

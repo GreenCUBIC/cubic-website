@@ -125,49 +125,54 @@
 
 
 ################ MASTERS STUDENTS #####################
-# - name: Fadwa Darwaish
-#   alumni: true
-#   memberid: fdarwaish
-#   joined: June 2018
-#   title: Master's Student
-#   img: darwaish.jpeg
-#   interests: Biomedical engineering
-#   email: fadwadarwaish@cmail.carleton.ca
-#   website: https://ca.linkedin.com/in/fadwa-darwaish-2a267bb4
-#   scholarurl: ""
-#   orcidurl: ""
-#   degree: MASc
-#   thesis: Investigating vibration levels experienced by neonatal patients while in transport
-#   background: Biomedical and Electrical Engineering
-#   quote: "God does not look at your forms and possessions but he looks at your hearts and your deeds. (Mohammed)"
-#   biography: |
-#     I am a master student in Electrical and Computer Engineering. I graduated with a degree in Biomedical and Electrical
-#     Engineering in June 2018. I am currently an engineering intern in the EIT (Engineer In Training) program, in pursuit
-#     of my P.Eng. designation. My thesis work is focused on investigating vibration levels experienced by neonatal patients
-#     while in transport. The aim of this research is to quantify the vibration levels babies encounter through their
-#     transport and eliminate them. I am interested in biomedical engineering for the purpose of changing lives and improving
-#     people’s health.
+- name: Fadwa Darwaish
+  alumni: true
+  memberid: fdarwaish
+  joined: June 2018
+  graduationYear: 2020
+  title: Master's Student
+  img: darwaish.jpeg
+  interests: Biomedical engineering
+  email: fadwadarwaish@cmail.carleton.ca
+  website: https://ca.linkedin.com/in/fadwa-darwaish-2a267bb4
+  scholarurl: ""
+  orcidurl: ""
+  degree: MASc
+  thesis: Investigating vibration levels experienced by neonatal patients while in transport
+  background: Biomedical and Electrical Engineering
+  quote: "God does not look at your forms and possessions but he looks at your hearts and your deeds. (Mohammed)"
+  biography: |
+    I am a master student in Electrical and Computer Engineering. I graduated with a degree in Biomedical and Electrical
+    Engineering in June 2018. I am currently an engineering intern in the EIT (Engineer In Training) program, in pursuit
+    of my P.Eng. designation. My thesis work is focused on investigating vibration levels experienced by neonatal patients
+    while in transport. The aim of this research is to quantify the vibration levels babies encounter through their
+    transport and eliminate them. I am interested in biomedical engineering for the purpose of changing lives and improving
+    people’s health.
 
-    #- name: Aishwarya Purohit
-    #  alumni: true
-    #  memberid: apurohit
-    #  title: MASc candidate
-    #  email: francoischarih@sce.carleton.ca
-    #  img: purohit.jpeg
-    #  degree: MASc
-    #  thesis: Predicting the Site of Protein Interaction
-    #  background: Biotechnology
-    #  quote: It's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. (Elon Musk)
-    #
-    #- name: Samreen Aziz
-    #  memberid: saziz
-    #  title: MASc candidate
-    #  email: francoischarih@sce.carleton.ca
-    #  img: aziz.jpeg
-    #  degree: MASc
-    #  thesis: Detection of Neonatal Patient Movements using Pressure-senstive Mats
-    #  background: Neuroscience
-    #  quote: TBD
+- name: Aishwarya Purohit
+  alumni: true
+  graduationYear: 2021
+  memberid: apurohit
+  title: MASc candidate
+  email: francoischarih@sce.carleton.ca
+  img: purohit.jpeg
+  degree: MASc
+  thesis: Predicting the Site of Protein Interaction
+  background: Biotechnology
+  quote: It's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. (Elon Musk)
+
+- name: Samreen Aziz
+  alumni: true
+  graduationYear: 2021
+  memberid: saziz
+  title: MASc candidate
+  email: francoischarih@sce.carleton.ca
+  img: aziz.jpeg
+  degree: MASc
+  thesis: Detection of Neonatal Patient Movements using Pressure-senstive Mats
+  background: Neuroscience
+  quote: TBD
+
 - name: Ashlynn Steeves
   joined: Sep 2021
   memberid: asteeves
