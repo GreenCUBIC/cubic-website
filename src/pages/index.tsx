@@ -4,10 +4,14 @@ import * as styles from "./index.module.scss";
 import Layout from "../components/Layout";
 import Button from "../components/Button";
 import CoolBar from "../components/CoolBar";
+import NewsBar from "../components/NewsBar";
+
+import news from "../../static/news.yaml";
 
 const IndexPage = () => (
   <Layout title="cuBIC | Home">
     <CoolBar />
+    <NewsBar news={news} />
     <div className={`${styles.container}`}>
       <div className={`${styles.whoWeAre}`}>
         <div className={`${styles.whoWeAreText}`}>
