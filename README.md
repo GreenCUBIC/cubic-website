@@ -4,6 +4,8 @@ This repository holds the source code and assets for the cuBIC webpage. It
 is built with [Gatsby](https://www.gatsbyjs.com/) which is a React-based
 static site generator.
 
+The site can be found at [cu-bic.ca](https://www.cu-bic.ca/)
+
 I built the website so that content can easily be added/modified in the
 static folder without having to actually modify the source code in `src`.
 The YAML files in `static` can be modified (by adding/modifying/removing entries, while
