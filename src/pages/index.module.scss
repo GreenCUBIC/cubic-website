@@ -59,7 +59,8 @@
 .partners {
   grid-area: expertise;
   width: 100%;
-  display: flex;
+  //display: flex;
+  text-align: center;
   justify-content: space-around;
   flex-wrap: wrap;
 }

@@ -1,4 +1,19 @@
-.newsbar {
-  text-align: center;
+.wrapper {
   padding: 10px;
+}
+
+.newsbar {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.circlesBar {
+  display: flex;
+  justify-content: center;
+}
+
+.circle {
+  margin-left: 10px;
+  margin-right: 10px;
 }
