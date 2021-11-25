@@ -2,7 +2,7 @@
 - name: James R. Green
   memberid: jrgreen
   title: Principal Investigator
-  joined: Founder (2006)
+  joined: Founder (2005)
   interests: Machine learning, bioinformatics, class imbalance, biomedical informatics
   email: jrgreen@sce.carleton.ca
   website: http://jamesgreen.ca
@@ -227,20 +227,21 @@
   biography: |
     I am a masters student interested in the use of Machine Learning in a wide range of applications. I would like to play a part in advancing the practical uses of machine learning and artificial intelligence as a whole in the medical field. I have an inclination towards academics and learning, and a desire to share my love of engineering with the world. Aside from that, I try to spend as much time as possible outdoors in the sun.
 
-# - name: Joshua Tanner
-#   joined: May 2020
-#   memberid: jtanner
-#   title: MEng Candidate
-#   interests: Machine Learning, Computer Vision, Data Science
-#   email: joshuatanner@cmail.carleton.ca
-#   website: "https://www.linkedin.com/in/joshua-tanner-6555ba133/"
-#   img: tanner.jpg
-#   degree: MEng
-#   thesis: "N/A"
-#   background: Mechanical Engineering
-#   quote: You master the fundamentals so you can forget them, so you can improvise and just concentrate on what really matters. (Kyrie Irving)
-#   biography: |
-#     I completed my Bachelor’s of Mechanical Engineering at Carleton. Currently at Carleton, I am pursuing a Master’s of Engineering in Electrical and Computer Engineering with a Specialization in Data Science. In the past, I have industry experience in signal processing as well as project experience in computer vision for robotic applications. Today, my machine learning research focuses on deep learning for computer vision.
+ - name: Joshua Tanner
+  alumni: true
+   joined: May 2020
+   memberid: jtanner
+   title: MEng Candidate
+   interests: Machine Learning, Computer Vision, Data Science
+   email: joshuatanner@cmail.carleton.ca
+   website: "https://www.linkedin.com/in/joshua-tanner-6555ba133/"
+   img: tanner.jpg
+   degree: MEng
+   thesis: "N/A"
+   background: Mechanical Engineering
+   quote: You master the fundamentals so you can forget them, so you can improvise and just concentrate on what really matters. (Kyrie Irving)
+   biography: |
+     I completed my Bachelor’s of Mechanical Engineering at Carleton. Currently at Carleton, I am pursuing a Master’s of Engineering in Electrical and Computer Engineering with a Specialization in Data Science. In the past, I have industry experience in signal processing as well as project experience in computer vision for robotic applications. Today, my machine learning research focuses on deep learning for computer vision.
 
 - name: Daniel Kyrollos
   joined: May 2020
