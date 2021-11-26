@@ -26,6 +26,7 @@ const NewsBar = (news) => {
           {news.news[selectedIndex].text}
         </div>
         <div
+          style={{ cursor: "pointer" }}
           onClick={() =>
             setIndex(
               selectedIndex === news.news.length - 1 ? 0 : selectedIndex + 1
@@ -33,7 +34,6 @@ const NewsBar = (news) => {
           }
         >
           <i
-            style={{ cursor: "pointer" }}
             className={`fas fa-chevron-right`}
             style={{ height: 20, width: 20 }}
           ></i>
