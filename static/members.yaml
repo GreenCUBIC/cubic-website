@@ -173,16 +173,16 @@
   background: Neuroscience
   quote: TBD
 
-- name: Ashlynn Steeves
-  joined: Sep 2021
-  memberid: asteeves
-  title: MASc candidate
-  email: ashlynnsteeves@cmail.carleton.ca
-  img: steeves.jpg
-  degree: MASc
-  thesis: TBD
-  background: Biomedical Engineering
-  quote: TBD
+#- name: Ashlynn Steeves
+#  joined: Sep 2021
+#  memberid: asteeves
+#  title: MASc candidate
+#  email: ashlynnsteeves@cmail.carleton.ca
+#  img: steeves.jpg
+#  degree: MASc
+#  thesis: TBD
+#  background: Biomedical Engineering
+#  quote: TBD
 
 - name: Jaser El-Habrouk
   joined: Sep 2020
