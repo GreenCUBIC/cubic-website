@@ -1,4 +1,29 @@
 #JOURNAL PAPERS
+- title: "Sex differences in developmental patterns of neocortical astroglia: A mouse translatome database"
+  type: "article"
+  projectid: other
+  year: 2022
+  authors:
+    - "Gareth M. Rurak"
+    - "Stephanie Simard"
+    - "Moises Freitas-Andrade"
+    - "Baptiste Lacoste"
+    - "Francois Charih"
+    - "Amanda Van Geel"
+    - "John Stead"
+    - "Barbara Woodside"
+    - "JR Green"
+    - "Gianfilippo Coppola"
+    - "Natalina Salmaso"
+  memberids:
+    - fcharih
+    - jrgreen
+  journal: "Cell Reports"
+  volume: "38"
+  number: "5"
+  doi: "10.1016/j.celrep.2022.110310"
+  status: ""
+
 - title: "RGB-D Scene Analysis in the NICU"
   type: "article"
   projectid: monitoring
