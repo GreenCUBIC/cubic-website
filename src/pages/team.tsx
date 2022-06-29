@@ -84,13 +84,24 @@ const Members = () => {
             ))}
         </div>
         <h2>Recent Lab Alums</h2>
-        <div>
+        <div className={`${styles.memberGroup}`}>
           {members
-            .filter((member) => member.alumni)
+            .filter((member) => member.alumni == true)
             .map((member) => (
-              <div>
-                {member.name}, {member.degree}, {member.graduationYear}
-              </div>
+              <Member
+                img={member.img}
+                name={member.name}
+                email={member.email}
+                website={member.website}
+                scholarurl={member.scholarurl}
+                orcidurl={member.orcidurl}
+                title={member.title}
+                research={member.thesis}
+                background={member.background}
+                quote={member.quote}
+                member={member}
+                openProfile={() => setSelectedMemberId(member.memberid)}
+              ></Member>
             ))}
         </div>
       </ContentLayout>

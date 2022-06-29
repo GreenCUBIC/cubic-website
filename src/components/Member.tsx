@@ -13,6 +13,7 @@ const Member = (props) => {
       />
       <div className={`${styles.memberText}`}>
         <div className={`${styles.memberName}`}>{props.name}</div>
+        {props.member && props.member.alumni && <div className={`${styles.memberName}`}>({props.member.degree})</div>}
         <Button onClick={props.openProfile}>View Profile</Button>
       </div>
     </div>

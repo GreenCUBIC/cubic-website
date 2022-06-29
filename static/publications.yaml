@@ -1,20 +1,74 @@
 #JOURNAL PAPERS
+- title: "NICUface: Robust Neonatal Face Detection in Complex NICU Scenes"
+  type: "article"
+  projectid: other
+  year: 2022
+  authors:
+    - "YS Dosso"
+    - "D Kyrollos"
+    - "K Greenwood"
+    - "J Harrold"
+    - "JR Green"
+  memberids:
+    - ysouleydosso
+    - dkyrollos
+    - jrgreen
+  journal: "IEEE Access"
+  volume: "10"
+  number: ""
+  doi: "10.1109/ACCESS.2022.3181167"
+  status: ""
+- title: "Assessing sequence-based protein-protein interaction predictors for use in therapeutic peptide engineering"
+  type: "article"
+  projectid: other
+  year: 2022
+  authors:
+    - "F Charih"
+    - "K Biggar"
+    - "JR Green"
+  memberids:
+    - fcharih
+    - jrgreen
+  journal: "Scientific Reports"
+  volume: "12"
+  number: "9610"
+  doi: "10.1038/s41598-022-13227-9"
+  status: ""
+- title: "GasBotty: Multi-Metric Extraction in the Wild"
+  type: "article"
+  projectid: other
+  year: 2022
+  authors:
+    - "K Dick"
+    - "JB Tanner"
+    - "F Charih"
+    - "JR Green"
+  memberids:
+    - kdick
+    - jtanner
+    - fcharih
+    - jrgreen
+  journal: "IEEE Access"
+  volume: "10"
+  number: ""
+  doi: "10.1109/ACCESS.2022.3156578"
+  status: ""
 - title: "Sex differences in developmental patterns of neocortical astroglia: A mouse translatome database"
   type: "article"
   projectid: other
   year: 2022
   authors:
-    - "Gareth M. Rurak"
-    - "Stephanie Simard"
-    - "Moises Freitas-Andrade"
-    - "Baptiste Lacoste"
-    - "Francois Charih"
-    - "Amanda Van Geel"
-    - "John Stead"
-    - "Barbara Woodside"
+    - "GM Rurak"
+    - "S Simard"
+    - "M Freitas-Andrade"
+    - "B Lacoste"
+    - "F Charih"
+    - "A Van Geel"
+    - "J Stead"
+    - "B Woodside"
     - "JR Green"
-    - "Gianfilippo Coppola"
-    - "Natalina Salmaso"
+    - "G Coppola"
+    - "N Salmaso"
   memberids:
     - fcharih
     - jrgreen
