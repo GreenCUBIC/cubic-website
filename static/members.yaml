@@ -187,6 +187,7 @@
 #  quote: TBD
 
 - name: Jaser El-Habrouk
+  alumni: true
   joined: Sep 2020
   graduationYear: 2023
   memberid: jelhabrouk
@@ -200,6 +201,7 @@
 
 
 - name: Eric Arezza
+  alumni: true
   joined: May 2020
   memberid: earezza
   title: Masters Student
@@ -214,6 +216,7 @@
     Bio coming soon...
 
 - name: Zein Hajj-Ali
+  alumni: true
   joined: September 2020
   graduationYear: 2023
   memberid: zhajjali
@@ -249,6 +252,7 @@
     I completed my Bachelor’s of Mechanical Engineering at Carleton. Currently at Carleton, I am pursuing a Master’s of Engineering in Electrical and Computer Engineering with a Specialization in Data Science. In the past, I have industry experience in signal processing as well as project experience in computer vision for robotic applications. Today, my machine learning research focuses on deep learning for computer vision.
 
 - name: Daniel Kyrollos
+  alumni: true
   joined: May 2020
   graduationYear: 2023
   memberid: dkyrollos
